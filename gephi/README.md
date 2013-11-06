@@ -1,10 +1,16 @@
-SNS用户交互学习行为研究
+Gephi
 =====================
 
-我们对这个问题感兴趣：“为什么知乎有味道、豆瓣小清新、百度都知道”？
+[Gephi](http://gephi.org) is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.。
 
-为了回答这个问题，我们运用文本挖掘、社会网络分析等手段，研究人在知乎、百度知道等SNS平台上的行为。
+                                                                                        2013-11-6
 
-                                                                                        2013-7-23
+###### Note:
+
+ 1. `network#1` 是由第一版的 `crawler_zhihu` 抓取所得的效果。
+
+ 2. `network#2` 是由第二版的 `crawler_zhihu` 抓取相同页面得到的结果。注意到这两幅图的上色方式是不同的。后者是按相同的modularity进行着色。
+
+
 
 ![zhihu](https://f.cloud.github.com/assets/4514568/1464359/ae45f7f4-4545-11e3-8390-dc96f1b8fe4f.png)
