@@ -25,7 +25,7 @@ class ZhihuSpider(BaseSpider):
             #构建新的URL
             new_url = "http://www.zhihu.com" + url
             print "[parse]new_url = %s" % (new_url)
-            #创建对应的页面的Request对象，设定回调函数为parse_cat，利用parse_cat处理返回的页面
+            #创建对应的页面的Request对象，设定回调函数为parse_answer_page，处理返回的页面
             r = Request(new_url, callback=self.parse_answer_page)
             req.append(r)
         return req
@@ -34,12 +34,15 @@ class ZhihuSpider(BaseSpider):
     def parse_answer_page(self, response):
         hxs = HtmlXPathSelector(response)
         #利用XPath抽取出线路名称:line_name
+        title = hxs.select('/html/body/div[4]/div/div/div[2]/h2/a/text()').extract()
         first_answer_name = hxs.select('//div[@class="zm-item-answer-author-info"]//h3/a[2]/text()').extract()
         #利用XPath抽取路线中经过的站点名称:route
         comment_name = hxs.select('//div[@class="zm-comment-hd"]/a/text()').extract()
         #结果写入到记录的文件之中
         
         #每个站点之间用,隔开
+        fp.write(title[0].strip() + ',' + first_answer_name[0].strip())
+        fp.write('\r\n')
         for i in range(len(comment_name)):
             fp.write( first_answer_name[0].strip() + ',' + comment_name[i].strip() )
             fp.write('\r\n')
@@ -50,4 +53,4 @@ class ZhihuSpider(BaseSpider):
         for i in range(len(comment_name)):
             print comment_name[i]
         print '--------------------------------------------------------------'
-        print "\n"
+        
