@@ -7,13 +7,23 @@ crawler_zhihu
 
 我们可以用Social Network Analysis的方法去研究和评价该帖子所形成的网络结构，这个结构（链接）主要是通过SNS用户间的“评论”产生的。如此一来，我们便可以做一些基础性的研究，包括节点的中心度、网络中的社团以及节点可达性等。
 
-这部分的知识是我们从Coursera的 [Social Network Analysis](https://www.coursera.org/course/sna) 中学习到的，非常感谢MOOC!
+关于数据可视化、以及社交网络分析的知识是我们从Coursera的 [Social Network Analysis](https://www.coursera.org/course/sna) 中学习到的，非常感谢MOOC!
 
                                                                                         2013-11-6
 
 
+
+####如何学习Scrapy?
+
+对于初学Scrapy的同学，可以通过查看 `zhihu` 中的代码学到Scrapy基本的调用机制，并且快速上手。
+
+对于层次更高的情况（比如将抓取结果存入数据库、定时抓取，或者大规模抓取）我们会随着项目的需要进行讨论。并及时更新wiki，谢谢关注！
+
+
+
+
 #####Released Note:
 
-  `2011-11-06` 更新了 `zhihu` ，添加了此前漏了的主题节点。
+  `2011-11-06` 更新了 `zhihu2` ，用于抓取同一话题下的精华帖内容。此外，还添加了此前漏了的主题节点。
 
  `2011-11-04` 发布了第一版的 `zhihu`，用于抓取单一页面的内容。
