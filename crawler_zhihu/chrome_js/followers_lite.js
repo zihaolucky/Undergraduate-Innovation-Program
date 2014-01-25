@@ -1,10 +1,11 @@
 //用逗号分隔用户名
-var userarray = "wang-wei-63";
+var userarray = "xin-yan";
 
  
 var users = userarray.split(',');
 var usercursor = 0;
-var result = new Array();
+// insert the followers_number
+var result = new Array(users,followers_number);
 var showtable = true;
 var cardcount = 0;
  
@@ -40,8 +41,9 @@ function loadmore() {
         content.find('.zu-button-more[aria-role]').get(0).click();
         var total = content.find(".zm-profile-side-following strong").html();
         cardcount = content.find('.zm-profile-card .zm-list-content-medium').length;
-        showmsg("正在加载" + name + "的关注者:" + cardcount + "/" + total + "... <img style='vertical-align: text-bottom;' src='http://static.zhihu.com/static/img/spinner/grey-loading.gif'/>");
-        setTimeout(loadmore, 2000);
+        showmsg("正在加载" + name + "的关注者:" + cardcount + "/" + total + "... <img style='vertical-align: text-bottom;'/>");
+        // 设置Timeout为1000的速度较快
+		setTimeout(loadmore, 1000);
     }
 }
  
@@ -50,21 +52,12 @@ function showratio() {
     cards.each(function () {
         var name = $(this).find('a.zg-link').html();
         var id = $(this).find('a.zg-link').attr("href").replace("http://www.zhihu.com/people/", "");
-        //var detail = $(this).find('.details');
-        //var follower = Number(detail.eq(0).children().eq(0).html().split(' ')[0]);
-        //var ask = Number(detail.eq(0).children().eq(1).html().split(' ')[0]);
-        //var answer = Number(detail.eq(0).children().eq(2).html().split(' ')[0]);
-        //var agree = Number(detail.eq(0).children().eq(3).html().split(' ')[0]);
 		
 		//控制部分,将获得的所有信息都一并存入;调用addresult()函数
         if (true) {
             var r = new Object();
             r.name = name;
             r.id = id;
-            //r.follower = follower;
-            //r.ask = ask;
-            //r.agree = agree;
-            //r.answer = answer;
             addresult(r);
         }
     });
@@ -85,7 +78,8 @@ function loaduser() {
  
 function addresult(r) {
     var exist = false;
-    for (i in result) { if (r.id == result[i].id) { exist = true; break; } }
+	showmsg("共" + users.length + "个用户，准备扫描第" + (usercursor + 1) + "个... <img style='vertical-align: text-bottom;' src='http://static.zhihu.com/static/img/spinner/grey-loading.gif'/>");
+    //for (i in result) { if (r.id == result[i].id) { exist = true; break; } } 查重,事实上这并不需要
     if (!exist) result.push(r);
 }
  
@@ -93,6 +87,5 @@ function addresult(r) {
  
 $("body").prepend('<div id="mask" style="width:100%;height:100%;top:0px;left:0px;position:fixed;z-index: 998;background-color: rgba(0, 0, 0, 0.4);text-align:center;"><div id="container" style="width:600px;height:400px;margin:80px auto 0px auto;position: relative;z-index: 999; padding: 5px;"><iframe id="tempframe" style="width:1px;height:1px;top:-999px;left:-999px;position:absolute;"></iframe><div id="msg" style="height: 30px;background-color: #C4D299;line-height: 30px;text-align: left;padding-left: 5px;"></div><div id="result" style="height: 350px;background-color: #F0F0F0;text-align: left;padding: 5px;margin-top: 5px;overflow-y: auto;"></div><input id="switchshowtable" style="display:none;position: absolute;width: 100px;top: 10px;right: 25px;" type="button" value="改为逗号分隔"/><select id="sorttype" name="sorttype" style="display:none;position: absolute;width: 100px;top: 45px;right: 25px;"><option value="ratio" selected>赞同/回答比</option><option value="agree">赞同</option><option value="answer">回答</option><option value="ask">提问</option><option value="follower">关注</option></select></div></div>');
 $("#switchshowtable").click(function () { showtable = !showtable; $(this).val(showtable ? "改为表格分隔(不建议)" : "改为逗号显示"); showresult(); });
-//$("#sorttype").change(function () { showresult(); });
 $("#tempframe").load(function () { loadmore(); });
 loaduser();
