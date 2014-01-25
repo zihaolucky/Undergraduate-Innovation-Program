@@ -1,17 +1,10 @@
 //用逗号分隔用户名
 var userarray = "zihaolucky";
-//回答数限制
-var answerlimit = 0;
-//赞同数限制
-var agreelimit = 0;
-//赞同回答比数限制
-var ratiolimit = 10;
-//关注者数限制
-var followerlimit = 0;
+
  
 var users = userarray.split(',');
 var usercursor = 0;
-var result = new Array();
+var result = new Array(users,followees_number);
 var showtable = true;
 var cardcount = 0;
  
@@ -20,10 +13,10 @@ function showresult() {
     $("#switchshowtable").show(0);
     $("#sorttype").show(0);
     var rsdiv = $("#result");
-    if (showtable) {
+    if (!showtable) {
         var tablehtm = "<table border='1' cellpadding='2' style='border-collapse: collapse;'><tr><td>编号</td><td>用户名</td><td>关注者</td><td>提问</td><td>回答</td><td>赞同</td></tr>";
         for (i in result) {
-            tablehtm += "<tr><td>" + (parseInt(i) + 1) + "</td><td><a href='/people/" + result[i].id + "/' target='_blank'>" + result[i].name + "</a></td><td>" + result[i].follower + "</td><td>" + result[i].ask + "</td><td>" + result[i].answer + "</td><td>" + result[i].agree +  "</td></tr>";
+            tablehtm += "<tr><td>" + (parseInt(i) + 1) + "</td><td><a href='/people/" + result[i].id + "/' target='_blank'>" + result[i].name + "</a></td><td>" + result[i].follower + "</td><td>" + result[i].ask + "</td><td>" + result[i].answer + "</td><td>" + result[i].agree + "</td></tr>";
         }
         tablehtm += "</table>";
         rsdiv.html(tablehtm);
@@ -48,7 +41,7 @@ function loadmore() {
         var total = content.find(".zm-profile-side-following strong").html();
         cardcount = content.find('.zm-profile-card .zm-list-content-medium').length;
         showmsg("正在加载" + name + "的关注者:" + cardcount + "/" + total + "... <img style='vertical-align: text-bottom;' src='http://static.zhihu.com/static/img/spinner/grey-loading.gif'/>");
-        setTimeout(loadmore, 2000);
+        setTimeout(loadmore, 1000);
     }
 }
  
@@ -70,11 +63,10 @@ function showratio() {
             r.ask = ask;
             r.agree = agree;
             r.answer = answer;
-            //r.ratio = (agree / answer).toFixed(2);
             addresult(r);
         }
     });
-    //sortresult();
+    sortresult();
     showresult();
     usercursor++;
     loaduser();
@@ -100,9 +92,6 @@ function sortresult() {
     if (result.length > 0) {
         var type = $("#sorttype").val();
         switch (type) {
-            case "ratio":
-                result = result.sort(function (a, b) { return b.ratio - a.ratio; });
-                break;
             case "agree":
                 result = result.sort(function (a, b) { return b.agree - a.agree; });
                 break;
