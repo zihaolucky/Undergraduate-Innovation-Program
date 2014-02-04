@@ -7,8 +7,8 @@ import json
 import time
 
 global user_list,login_data
-user_list = ['linan','commando']
-login_data = {'email': 'zihaolucky@gmail.com', 'password': 'Shandian@123', }
+user_list = ['zihaolucky']
+login_data = {'email': '137552789@qq.com', 'password': '2241226', }
 
 
 # session对象,会自动保持cookies
@@ -45,8 +45,17 @@ def load_more(user,data):
     
     # ---- key module ----
         # 写入头20个用户信息
-    user_id = re.compile('zhihu.com/people/(.*?)"').findall(data) 
-    write_file(user_id)
+    user_id = re.compile('zhihu.com/people/(.*?)"').findall(data)
+    user_id = user_id[1:len(user_id)]
+    answers = re.findall('answers" class="zg-link-gray-normal">(.*?) ',data)
+    asks = re.findall('asks" class="zg-link-gray-normal">(.*?) ',data)
+    followers = re.findall('followers" class="zg-link-gray-normal">(.*?) ',data)
+    goods = re.findall('class="zg-link-gray-normal">(.*?) ',data)
+    goods = goods[3:len(goods):4]
+    
+    fp.write('user_id,followers,asks,answers,goods')
+    fp.write('\r\n')
+    write_file(user_id,followers,asks,answers,goods)
         # 写入其余用户信息
     for i in range(1,load_more_times+1):
         t_start = time.localtime()[5]
@@ -55,11 +64,20 @@ def load_more(user,data):
         params = json.dumps({"hash_id":hash_id,"order_by":"created","offset":offsets,})
         payload = {"method":"next", "params": params, "_xsrf":_xsrf,}
         r = s.post(click_url,data=payload,headers=header_info)
+        
         user_id = re.findall('href=\\\\"\\\\/people\\\\/(.*?)\\\\',r.text)
+        answers = re.findall('answers\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
+        asks = re.findall('asks\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
+        followers = re.findall('followers\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
+        goods = re.findall('class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
+        goods = goods[3:len(goods):4]
+        
             # parse info.
         user_id = set(user_id) # 去重
         user_id = [i for i in user_id] # 将set变为数组,以便写入
-        write_file(user_id)
+        
+        write_file(user_id,followers,asks,answers,goods)
+        # print user_id
         t_elapsed = time.localtime()[5] - t_start
         print 'got:',offsets,'users.','elapsed: ',t_elapsed,'s.\n'
         
@@ -71,7 +89,7 @@ def main():
     s.post('http://www.zhihu.com/login', login_data)
     
     for user in user_list:
-        print 'crawling' + user + '\'s followers...\n'
+        print 'crawling ' + user + '\'s followers...\n'
         # 写文件
         global fp
         fp = codecs.open(user + '.txt', 'w', 'utf-8')
@@ -83,11 +101,10 @@ def main():
         load_more(user,data)
 
     
-def write_file(user_id):
+def write_file(user_id,followers,asks,answers,goods):
     for i in range(len(user_id)):
-        
         global fp
-        fp.write( user_id[i].strip() )
+        fp.write( user_id[i].strip()+','+followers[i].strip()+','+asks[i].strip()+','+answers[i].strip()+','+goods[i].strip() )
         fp.write('\r\n') 
     
     
