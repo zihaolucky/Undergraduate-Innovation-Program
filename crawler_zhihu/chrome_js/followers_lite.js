@@ -1,11 +1,11 @@
 //用逗号分隔用户名
-var userarray = "xin-yan";
+var userarray = "zihaolucky";
 
  
 var users = userarray.split(',');
 var usercursor = 0;
 // insert the followers_number
-var result = new Array(users,followers_number);
+var result = new Array();
 var showtable = true;
 var cardcount = 0;
  
