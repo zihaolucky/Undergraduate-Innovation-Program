@@ -7,7 +7,13 @@ import json
 import time
 
 global user_list,login_data
-user_list = ['zihaolucky']
+
+
+#user_list = ['wang-wei-63','allenzhang','kentzhu']
+#user_list = ['fenng','linan']
+#user_list = ['hi-id','shek']
+user_list = ['commando','chen-hao-84','jin-chen-yu']
+
 login_data = {'email': '137552789@qq.com', 'password': '2241226', }
 
 
@@ -65,16 +71,18 @@ def load_more(user,data):
         payload = {"method":"next", "params": params, "_xsrf":_xsrf,}
         r = s.post(click_url,data=payload,headers=header_info)
         
-        user_id = re.findall('href=\\\\"\\\\/people\\\\/(.*?)\\\\',r.text)
-        answers = re.findall('answers\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
-        asks = re.findall('asks\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
-        followers = re.findall('followers\\\\" class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
-        goods = re.findall('class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
-        goods = goods[3:len(goods):4]
-        
             # parse info.
-        user_id = set(user_id) # 去重
-        user_id = [i for i in user_id] # 将set变为数组,以便写入
+        user_id = re.findall('href=\\\\"\\\\/people\\\\/(.*?)\\\\',r.text)
+        user_id = user_id[0:len(user_id):5]
+        user_info = re.findall('class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
+        followers = user_info[0:len(user_info):4]
+        asks = followers = user_info[1:len(user_info):4]
+        answers = user_info[2:len(user_info):4]
+        goods = user_info[3:len(user_info):4]
+        
+        #print user_id,followers,asks,answers,goods
+        #print len(user_id),len(followers),len(asks),len(answers),len(goods)
+        
         
         write_file(user_id,followers,asks,answers,goods)
         # print user_id
