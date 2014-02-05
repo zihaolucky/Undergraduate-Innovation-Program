@@ -5,6 +5,8 @@ import math
 import codecs
 import json
 import time
+import datetime
+
 
 global user_list,login_data
 
@@ -63,6 +65,7 @@ def load_more(user,data):
     fp.write('\r\n')
     write_file(user_id,followers,asks,answers,goods)
         # 写入其余用户信息
+    start_time = datetime.datetime.now()
     for i in range(1,load_more_times+1):
         t_start = time.localtime()[5]
         offsets = i*20
@@ -88,7 +91,8 @@ def load_more(user,data):
         # print user_id
         t_elapsed = time.localtime()[5] - t_start
         print 'got:',offsets,'users.','elapsed: ',t_elapsed,'s.\n'
-        
+    end_time = datetime.datetime.now()
+    print 'total time consumption: ' + str((end_time - start_time).seconds) + 's'
 
     
     
@@ -114,6 +118,7 @@ def write_file(user_id,followers,asks,answers,goods):
         global fp
         fp.write( user_id[i].strip()+','+followers[i].strip()+','+asks[i].strip()+','+answers[i].strip()+','+goods[i].strip() )
         fp.write('\r\n') 
+        
     
     
 if __name__=='__main__':
