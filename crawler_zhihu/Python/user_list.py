@@ -10,9 +10,9 @@ global user_list,login_data
 
 
 #user_list = ['wang-wei-63','allenzhang','kentzhu']
-#user_list = ['fenng','linan']
+user_list = ['linan']
 #user_list = ['hi-id','shek']
-user_list = ['commando','chen-hao-84','jin-chen-yu']
+#user_list = ['commando','chen-hao-84','jin-chen-yu']
 
 login_data = {'email': '137552789@qq.com', 'password': '2241226', }
 
