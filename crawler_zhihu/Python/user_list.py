@@ -16,7 +16,7 @@ user_list = ['linan']
 #user_list = ['hi-id','shek']
 #user_list = ['commando','chen-hao-84','jin-chen-yu']
 
-login_data = {'email': '137552789@qq.com', 'password': '2241226', }
+login_data = {'email': 'zihaolucky@gmail.com', 'password': 'Shandian@123', }
 
 
 # session对象,会自动保持cookies
