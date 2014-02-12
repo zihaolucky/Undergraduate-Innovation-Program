@@ -12,11 +12,14 @@ global user_list,login_data
 
 
 #user_list = ['wang-wei-63','allenzhang','kentzhu']
-user_list = ['linan']
+user_list = ['kaifulee']
 #user_list = ['hi-id','shek']
 #user_list = ['commando','chen-hao-84','jin-chen-yu']
 
-login_data = {'email': 'zihaolucky@gmail.com', 'password': 'Shandian@123', }
+login_data = {'email': '137552789@qq.com', 'password': '2241226','rememberme':'y',}
+#login_data = {'email': 'zihaolucky@gmail.com', 'password': 'shandian123','rememberme':'y',}
+
+
 
 
 # session对象,会自动保持cookies
@@ -72,7 +75,15 @@ def load_more(user,data):
         # 由于返回的是json数据,所以用json处理parameters.
         params = json.dumps({"hash_id":hash_id,"order_by":"created","offset":offsets,})
         payload = {"method":"next", "params": params, "_xsrf":_xsrf,}
-        r = s.post(click_url,data=payload,headers=header_info)
+        
+        # debug and improve robustness. Date: 2014-02-12
+        try:
+            r = s.post(click_url,data=payload,headers=header_info,timeout=18)
+        except:
+            # 响应时间过程过长则重试
+            print 'repost'
+            r = s.post(click_url,data=payload,headers=header_info,timeout=60)
+        
         
             # parse info.
         user_id = re.findall('href=\\\\"\\\\/people\\\\/(.*?)\\\\',r.text)
