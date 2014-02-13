@@ -12,7 +12,9 @@ global user_list,login_data
 
 
 #user_list = ['wang-wei-63','allenzhang','kentzhu']
-user_list = ['kaifulee']
+#user_list = ['yangbo','baiya','junyu','wang-xiao-chuan']
+#user_list = ['wangxing','gongjun','zhouyuan']
+user_list = ['zihaolucky']
 #user_list = ['hi-id','shek']
 #user_list = ['commando','chen-hao-84','jin-chen-yu']
 
@@ -104,6 +106,9 @@ def load_more(user,data):
         print 'got:',offsets,'users.','elapsed: ',t_elapsed,'s.\n'
     end_time = datetime.datetime.now()
     print 'total time consumption: ' + str((end_time - start_time).seconds) + 's'
+
+
+
 
     
     
