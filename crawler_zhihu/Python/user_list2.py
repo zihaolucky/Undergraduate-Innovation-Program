@@ -157,7 +157,7 @@ def load_more_thread2(user,data):
         user_id = user_id[0:len(user_id):5]
         user_info = re.findall('class=\\\\"zg-link-gray-normal\\\\">(.*?) ',r.text)
         followers = user_info[0:len(user_info):4]
-        asks = followers = user_info[1:len(user_info):4]
+        asks = user_info[1:len(user_info):4]
         answers = user_info[2:len(user_info):4]
         goods = user_info[3:len(user_info):4]
         
