@@ -14,12 +14,12 @@ global user_list,login_data
 #user_list = ['wang-wei-63','allenzhang','kentzhu']
 #user_list = ['yangbo','baiya','junyu','wang-xiao-chuan']
 #user_list = ['wangxing','gongjun','zhouyuan']
-user_list = ['zihaolucky']
+user_list = ['shisu']
 #user_list = ['hi-id','shek']
 #user_list = ['commando','chen-hao-84','jin-chen-yu']
 
-login_data = {'email': '137552789@qq.com', 'password': '2241226','rememberme':'y',}
-#login_data = {'email': 'zihaolucky@gmail.com', 'password': 'shandian123','rememberme':'y',}
+
+login_data = {'email': 'zihaolucky@gmail.com', 'password': 'shandian123','rememberme':'y',}
 
 
 
@@ -70,7 +70,7 @@ def load_more(user,data):
     fp.write('\r\n')
     write_file(user_id,followers,asks,answers,goods)
         # 写入其余用户信息
-    start_time = datetime.datetime.now()
+    
     for i in range(1,load_more_times+1):
         t_start = time.localtime()[5]
         offsets = i*20
@@ -104,8 +104,7 @@ def load_more(user,data):
         # print user_id
         t_elapsed = time.localtime()[5] - t_start
         print 'got:',offsets,'users.','elapsed: ',t_elapsed,'s.\n'
-    end_time = datetime.datetime.now()
-    print 'total time consumption: ' + str((end_time - start_time).seconds) + 's'
+    
 
 
 
@@ -138,4 +137,7 @@ def write_file(user_id,followers,asks,answers,goods):
     
     
 if __name__=='__main__':
+    start_time = datetime.datetime.now()
     main()
+    end_time = datetime.datetime.now()
+    print 'total time consumption: ' + str((end_time - start_time).seconds) + 's'
