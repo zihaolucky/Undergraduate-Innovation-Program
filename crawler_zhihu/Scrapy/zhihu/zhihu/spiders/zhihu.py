@@ -3,7 +3,7 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from scrapy.http import Request
 from scrapy.conf import settings
- 
+
 import codecs
  
 #使用UTF-8格式保存文件

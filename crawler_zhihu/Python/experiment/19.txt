@@ -1,0 +1,2996 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<title>
+
+如何与父母断绝亲子关系？ - 知乎
+
+</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://questions/22561592">
+
+
+
+
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/22561592">
+<meta id="znonce" name="znonce" content="c80f5177de71457daa81a6c38f3f8f59">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+
+
+
+
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/f004e446ca569e4897e59cf26da3e2dc.z.css" type="text/css" media="screen,print" />
+
+
+
+
+
+
+
+<script src="http://static.zhihu.com/static/ver/8a78291c76c02b69868a113adaf9abc3.instant.min.js"></script>
+
+
+
+
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+<div class="top-nav-profile">
+<a href="/people/zihaolucky" class="zu-top-nav-userinfo ">
+<span class="name">郑梓豪</span>
+<img class="avatar" src="http://p2.zhimg.com/f5/62/f562e3517_s.jpg" />
+<span id="zh-top-nav-new-pm" class="zg-noti-number zu-top-nav-pm-count"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+<ul class="top-nav-dropdown" id="top-nav-profile-dropdown">
+<li>
+<a href="/people/zihaolucky">
+<i class="zg-icon zg-icon-dd-home"></i>我的主页
+</a>
+</li>
+
+<li>
+<a href="/inbox">
+<i class="zg-icon zg-icon-dd-pm"></i>私信
+<span id="zh-top-nav-pm-count" class="zu-top-nav-pm-count zg-noti-number"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+</li>
+<li>
+<a href="/settings">
+<i class="zg-icon zg-icon-dd-settings"></i>设置
+</a>
+</li>
+<li>
+<a href="/logout">
+<i class="zg-icon zg-icon-dd-logout"></i>退出
+</a>
+</li>
+</ul>
+
+</div>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-home-link">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-item-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li ">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+<li class="top-nav-noti zu-top-nav-li ">
+<a class="zu-top-nav-link" href="javascript:;" id="zh-top-nav-count-wrap" role="button"><span class="mobi-arrow"></span>消息</a>
+</li>
+
+
+
+</ul>
+<div class="zu-top-nav-live zg-r5px" id="zh-top-nav-live" style="display:none">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<ul class="zu-home-noti-inner"></ul>
+<a href="/notifications" id="zh-top-nav-btn-view-all" class="zg-btn-blue zg-right" style="font-size:12px">查看所有</a>
+<a href="javascript:;" class="zg-btn-white zg-r3px" id="zh-top-nav-btn-hide">知道了</a>
+</div>
+</div>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+<span class="new-noti" style="display:none;">0</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+<span class="new-noti" style="display:none;">0</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+<span class="new-noti" style="display:none;">0</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notify" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-redirect-info" style="display:none"></div>
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-notification-summary" style="display:none;">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<span class="zu-global-notify-icon"></span>
+<ul class="zu-question-notify-wrap">
+</ul>
+</div>
+</div>
+</div>
+<div class="zg-wrap zu-main question-page" id="zh-single-question-page"
+data-urltoken="22561592">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div id="zh-message-container" class="zg-info-message" style="display:none;"></div>
+
+
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550874"
+data-tip="t$b$19550874" data-token="19550874" data-topicid="215">
+法律
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556074"
+data-tip="t$b$19556074" data-token="19556074" data-topicid="1939">
+家庭
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19589532"
+data-tip="t$b$19589532" data-token="19589532" data-topicid="13095">
+父母
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19611885"
+data-tip="t$b$19611885" data-token="19611885" data-topicid="20607">
+家庭暴力
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19745291"
+data-tip="t$b$19745291" data-token="19745291" data-topicid="65149">
+亲子关系
+</a>
+
+</div>
+</div>
+<div id="zh-question-title">
+
+<h2 class="zm-item-title zm-editable-content">
+
+如何与父母断绝亲子关系？
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="1205288" data-action="/question/detail">
+
+
+<textarea class="content hidden">1，我想与父母解除亲子关系，就是不想再见到，听到他们和所有跟他们有关的亲戚的任何事情。希望他们，以及所有他们的影响力，从我的生活里&lt;b&gt;永远的消失。&lt;/b&gt;&lt;br&gt;2，在满足 1 的条件下，我希望能遵守法律上赡养老人的义务，通过律师代理或者理财分红之类渠道，保证他们失去劳动力之后生活无忧。&lt;br&gt;3，在满足1，和2 的条件下，对于一部分曾经对自己有过恩惠的亲戚（比如母亲和父亲的亲兄弟姐妹，比如我的表弟）应该怎样合适的把恩惠还给他们呢？我不想欠别人任何东西。&lt;br&gt;以上是问题，之后请允许我慢慢陈述缘由，和事实：&lt;br&gt;1：&lt;br&gt;我曾经反反复复询问自己一个问题：如果时光可以回到1988年10月，我出生月份之前，我是否会让我父母生下我？我又反反复复的确认的这个问题：&lt;br&gt;&lt;b&gt;如果有这份能力，我绝对绝对绝对不会让我父母生下我。&lt;/b&gt;&lt;br&gt;非常不幸的是，这件我不能阻止的事情已经发生了25年，而更不幸的是，我仍然没有足够的孤独和勇气离开这个世界。&lt;br&gt;2：&lt;br&gt;在小时候，我在家的时候，我遭受过来自父母的家庭暴力，非常多，非常频繁，非常残忍。&lt;br&gt;父母会把工作上遭遇的不顺发泄到我身上，一言不合就会抽耳光，让我下跪，用铜头皮带鞭笞，用啤酒瓶砸，用凳子砸，用瓷碗砸，用皮带抽，用皮鞋抽，用棍子打。&lt;br&gt;他们两都是社会上的小人物，工作上受气被看轻是常有的事，我也就经常当受气筒。&lt;br&gt;父亲常常酗酒，酗酒之后会打砸家里的东西，在家里大声咒骂，吵到凌晨。&lt;br&gt;母亲会常常让我跪下，然后&quot;絮絮叨叨的‘&quot;教育’我，不是一个小时，半个小时，而是&lt;b&gt;整整一天&lt;/b&gt;。内容都是”我养你这个儿如何如何艰辛，你怎么这么忤逆不孝。‘“不听话爸妈就打死你。”‘好生听话才是乖儿，才是社会上的好人。&quot;‘别人家的孩子都听话，你怎么这么做不到。’‘你要敢跑，离了我们谁能养你个小杂种“&lt;br&gt;她絮絮叨叨，重重复复，时间非常长，这些训话中我都是跪着的，如果我不认真跪着，或者她发现我没有认真听，她会拿皮带抽，拿擀面杖殴打我，拿针扎，那手边任何东西砸我。&lt;br&gt;有一次是她打完我之后灌了一壶冷水，放在蜂窝煤炉上，然后把蜂窝煤炉的火量调的很低，然后开始训话，天黑了，她去换蜂窝煤炉，才发现水壶已经被烧红了。&lt;br&gt;从我5年级那时候他们开始闹离婚，每天下班后吵架到深夜，锅碗瓢盆的砸的叮叮当当响，互相大打出手，一度闹到财产分割，后来分别是被两边的亲戚给”劝“回去。&lt;br&gt;曾经有一次，因为放学没按时回去，我被父母用凳子砸晕过。&lt;br&gt;曾经又一次，深冬深夜，我父亲喝完酒回家，发现我在看电视，拿拳头打我，打到窗户上，把他自己手伤到了，更加怒不可遏，要揍死我，我在深夜里穿着秋衣秋裤逃到我二姨家去，他追到我二姨家，用拳头砸门，我二姨夫要面子，就把我推到门外去。我被他拖回家，揍了一顿。&lt;br&gt;曾经有一次我挨打的时候跑出来，漫无目的跑到小县城的火车站被他们截住，然后拖回家用皮鞭又抽了一顿。我记得那一天是个周六，因为小县城的火车站有个牌子用粉笔写着车次，他们打我打了一天，我哭到声嘶力竭，最后只会发出像野猪似的嘶嚎，这是印象最深的一天，印象最深刻的一次。&lt;br&gt;3：&lt;br&gt;那十来年里 ，我身体和心上都布满淤青，创口，软骨挫伤，注意力难以集中，常做噩梦。&lt;br&gt;写了很多，又觉得男子汉大丈夫，这么做太矫情，一句话简述：&lt;br&gt;&lt;b&gt;现在回忆起来，我的心里应该是被他们种满了难以消弭的憎恨的。这些仇恨一度让我丧失了很多正常人应该有的能力和财富。&lt;/b&gt;&lt;br&gt;4：&lt;br&gt;  他们曾经想要控制我。&lt;br&gt;  小时候，我住过的房间是有门锁的，后来，因为我怕挨打反锁过房门几次，我母亲就把门锁卸了。&lt;br&gt;  高考完报志愿，我违逆了他们意思，执意填报了离家千里的北京。一个亲密的同学曾经告诉我，他看到我母亲背着我到学校找到老师，要改我的志愿书，老师们没同意，她走了。&lt;br&gt;  在北京的大学里，浑浑噩噩过的还行，不怎么去跟他们联系，过年回去也就不冷不热的敷衍着。但是每次我母亲都会找茬辱骂我一顿：我不听她的话，没有回小县城工作。还是老样子，一骂就骂一天。&lt;br&gt;  大学期间过年回家，我妈会拿着我小学，中学，高中，大学的缴费单，要我还钱，那时候我还在上本科，哪来的钱还给她？&lt;br&gt;  她甚至扣留过我的身份证和回北京火车票，我找到我表弟重新买了一张，回北京补办了身份证。&lt;br&gt;&lt;br&gt;&lt;br&gt;  2013年8月份开始，我把父母的电话，QQ号，以及其他所有联系方式统统拖入了黑名单。&lt;br&gt;&lt;br&gt;5：&lt;br&gt;   我忘了解除父母子女关系这个决定是什么时候出来的，它浮现脑海的时候，我并非没有阻力。&lt;br&gt;    我年少挨打的时候，常跑到亲戚家去，那些亲戚常常劝我说：&lt;br&gt;   ”别记恨你父母，他们是为你好。“’等你长大了你就懂了。“&lt;br&gt;   我父母离婚的时候，他们（包括我父母）也说：&lt;br&gt;  “你爸妈是为你好才没有离婚的。”&lt;br&gt;   眼下，我拖黑父母手机号和QQ之后，仍然时不时收到一些亲戚的短信：&lt;br&gt; ”你爸妈养了你多不容易，你要孝顺他们啊。“&lt;br&gt; ”你爸妈操劳了大半辈子，都为了你。“&lt;br&gt;  ”你爸妈很想你，快回去看看他们。“&lt;br&gt;  ”你爸妈供你上大学花了好多钱。“&lt;br&gt;  ”多体谅你父母，他们老了，别让他们伤心。“&lt;br&gt;  ”过年了，问候下你爸妈，别让他们惦记。“&lt;br&gt;&lt;br&gt;  凭心而论，我父母并没有说的那么不堪，我妈会做菜，会持家，会按季节给我买新衣服，从来没有让我吃不饱，穿不暖。&lt;br&gt; 凭心而论，他们尽力的拱了我上小学，上初中，上高中，上大学，从没有欠过学杂费，生活费。&lt;br&gt;  但回到那个问题：&lt;br&gt;  如果我知道出生以后会面临这样的父母，我会选择他们吗？我会选择这种生命吗？&lt;br&gt;  当然不会，这不是我想要的父母，这也不是我想要的童年，&lt;b&gt;这都不是我选择的，为什么就要让我”偿还“，这他妈的跟抢劫有什么区别？这他妈跟强买强卖有什 么区别？？&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;   我也不知道怎么回答。&lt;br&gt;   他们也老了，我拖黑他们之后，他们像鼻涕，眼泪或成的面团一样软，他们低声下气，让我对他们的怨恨也就无从谈起————他们这辈子也就点出息了，我就算发泄了怨恨又怎么样呢？&lt;br&gt;&lt;br&gt;    拖黑之后，眼下快过年了，很多亲戚开始打电话过来，问我什么时候回去过年，这种电话，来一个，我拖黑一个，短信来一个，删除一个。&lt;br&gt;6：&lt;br&gt;     我不是，也不想做一个残忍的人，但是为了让我自己的生活更好一点我不会吝啬付出任何代价。&lt;br&gt;   我有一将功成万骨枯的冷酷，也做好了剖筋断骨的决绝。&lt;br&gt;&lt;br&gt;   我的生活仍然可以好起来，我在北京有份工作，干下去，再找个伴，每天玩玩游戏，结交点朋友，再旅游旅游，过几年，也许我就不这么偏执，焦躁，喜怒无常。&lt;br&gt;  我是有点小梦想的，也许去努力点实现个小梦想，我会忘掉过去，也说不定。&lt;br&gt;  消化这么重口味儿的童年需要一点时间，但又不是不可以。&lt;br&gt;  这就回到了主题的缘故，&lt;br&gt;  我认为：&lt;b&gt;只要那两个被我称为父母的人从我生活消失，这样我快快乐乐过完下半辈子是没问题的。&lt;/b&gt;&lt;br&gt;我认为&lt;b&gt;：只要和原来的亲戚统统切断关系，生活应该可以按照我的意思重新塑造一个开始。&lt;/b&gt;&lt;br&gt;  出于这个原因，这个决定就是这样做出来的。&lt;br&gt;  我想要知道怎么做，如何做，怎么去应付可能出现的结果？&lt;br&gt;  在哪里可以找到相关的律师？是不是需要签字什么的过程？中国法律规定赡养老人的底限在哪里？&lt;br&gt;  怎样婉转的表达这个意思？怎么去对付爱管闲事的亲戚？&lt;br&gt;  有两个从小一起长大的表弟，是否也需要一起切掉联系？&lt;br&gt;  本来想匿名的，但是写了这么多，匿名又显得诚意不够，我真心想要知道这种答案，如果您能回答，万分感谢。</textarea>
+<div class="zh-summary summary clearfix">
+1，我想与父母解除亲子关系，就是不想再见到，听到他们和所有跟他们有关的亲戚的任何事情。希望他们，以及所有他们的影响力，从我的生活里<b>永远的消失。</b><br>2，在满足 1 的条件下，我希望能遵守法律上赡养老人的义务，通过律师代理或者理财分红之类渠道，保证他们失去劳动力之后生活无忧。<br>3，在满足1，和2 的条件下，对于一部分曾经对自己有过恩惠的亲戚（比如母亲和父亲的亲兄弟姐妹，比如我的表弟）应该怎样合适的把恩惠还给他们呢？我不想欠别人任何东西。<br>以上是问题，之后请允许我慢慢陈述缘由，和事实：<br>1：<br>我曾经反反复复询问自己一个问题：如果时光可以回到1988年10月，我出生月份之前，我是否会让我父母生下我？我又反反复复的确认的这个问题：<br><b>如果有这份能力，我绝对绝对绝对不会让我父母生下我。</b><br>非常不幸的是，这件我不能阻止的事情已经发生了25年，而更不幸的是，我仍然没有足够的孤独和勇气离开这个世界。<br>2：<br>在小时候，我在家的时候，我遭受过来自父母的家庭暴力，非常多，非常频繁，非常残忍。<br>父母会把工作上遭遇的不顺发泄到我身上，一言不合就会抽耳光，让我下跪，用铜头皮带鞭笞，用啤酒瓶砸，用凳子砸，用瓷碗砸，用皮带抽，用皮鞋抽，用棍子打。<br>他们两都是社会上的小人物，工作上受气被看轻是常有的事，我也就经常当受气筒。<br>父亲常常酗酒，酗酒之后会打砸家里的东西，在家里大声咒骂，吵到凌晨。<br>母亲会常常让我跪下，然后"絮絮叨叨的‘"教育’我，不是一个小时，半个小时，而是<b>整整一天</b>。内容都是”我养你这个儿如何如何艰辛，你怎么这么忤逆不孝。‘“不听话爸妈就打死你。”‘好生听话才是乖儿，才是社会上的好人。"‘别人家的孩子都听话，你怎么这么做不到。’‘你要敢跑，离了我们谁能养你个小杂种“…
+<a href="javascript:;" class="toggle-expand">显示全部</a>
+</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+
+<a href="#" name="report-question" class="report zg-right">
+<i class="z-icon-no-help"></i>举报</a>
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+
+<span class="zg-bull">&bull;</span>
+<a href="#" name="invite" class="meta-item">邀请回答</a>
+
+
+
+
+<div class="panel-container">
+
+</div>
+</div>
+
+<div class="zh-answers-title clearfix">
+
+<div id="zh-answers-filter" class="answers-sorter">
+
+<span class="lbl">按票数排序</span>
+<a class="lbl" href="/question/22561592?sort=created">按时间排序</a>
+
+<i class="zg-icon zg-icon-double-arrow"></i>
+</div>
+
+<h3 data-num="23" id="zh-question-answer-num">23 个回答</h3>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="1205288" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div id="zh-question-answer-wrap" data-pagesize="50" class="zh-question-answer-wrapper" data-widget="navigable" data-navigable-options="{&quot;items&quot;: &quot;&gt;.zm-item-answer&quot;}" data-init="{&quot;params&quot;: {&quot;url_token&quot;: 22561592, &quot;pagesize&quot;: 50, &quot;offset&quot;: 0}, &quot;nodename&quot;: &quot;QuestionAnswerListV2&quot;}" data-fixed-summary="1">
+
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4444250"
+data-atoken="23073233"
+data-collapsed="0"
+data-created="1393863891"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="24.1249273869"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4444250"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">12</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="12">12</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$Ysis"
+class="zm-item-link-avatar"
+href="/people/Ysis">
+<img src="http://p2.zhimg.com/ba/2f/ba2faeb75_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/ba/2f/ba2faeb75_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$Ysis" href="/people/Ysis">Sa Yi</a>，<strong title="不惜加价买来的MI3！是如此的令我失望！" class="zu-question-my-bio">不惜加价买来的MI3！是如此的令我失望！</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="12">
+
+<span class="voters">
+<a data-tip="p$t$yao-zhi-nan" href="http://www.zhihu.com/people/yao-zhi-nan" class="zg-link" title="姚志楠">姚志楠</a>、<a data-tip="p$t$ottery" href="http://www.zhihu.com/people/ottery" class="zg-link" title="womendezuguo">womendezuguo</a>、<a data-tip="p$t$gu-yao-zong" href="http://www.zhihu.com/people/gu-yao-zong" class="zg-link" title="谷耀宗">谷耀宗</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢邀！<br><ol><li>国内法律是不认可的。但是你可以登报，广而告之！（这个比较老式！其实只是一个单方面的申明。）</li><li>去公安局改名，然后远走他乡，从新开始。</li><li>把你多年来的学费还给你父母。然后定期打款子给他们。多少看你自己的能力。</li><li>在第三方留下自己的qq号，作为紧急联络方式。不定期登录看一下留言。</li></ol>骚年……其实只要能自力更生了，脱不脱里父子关系都是其次的。你远走他乡销声匿迹是很容易的。<br>或许有一天你会想起回家看看……没有让你去宽容和原谅的意思。但是时间会改变一切……<br><br>恨留在自身，伤害的只有自己！想办法让自己活好才是真的。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4444250-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23073233">00:24</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420289"
+data-atoken="23016314"
+data-collapsed="0"
+data-created="1393735254"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="20.1249360191"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420289"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">10</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="10">10</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhu-zi-hao-87"
+class="zm-item-link-avatar"
+href="/people/zhu-zi-hao-87">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhu-zi-hao-87" href="/people/zhu-zi-hao-87">朱子豪</a>，<strong title="学生 读书" class="zu-question-my-bio">学生 读书</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="10">
+
+<span class="voters">
+<a data-tip="p$t$hu-a-niu-80" href="http://www.zhihu.com/people/hu-a-niu-80" class="zg-link" title="胡阿牛">胡阿牛</a>、<a data-tip="p$t$dawn-0901" href="http://www.zhihu.com/people/dawn-0901" class="zg-link" title="Dawn">Dawn</a>、<a data-tip="p$t$yao-zhi-nan" href="http://www.zhihu.com/people/yao-zhi-nan" class="zg-link" title="姚志楠">姚志楠</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">  楼主你好，我对你的遭遇十分同情，我身上也发生过类似的事情。身边的同学谈起童年的时有不少有被打的经历，但是他们并不了解，在肉体上遭受摧残并不是最痛苦的，最痛苦的是从小生活在一个缺乏安全感的环境，战战兢兢，强颜欢笑。我的父亲从我很小的时候就打我，我们那儿叫“常吃耳光”拿他的话来说，孩子不懂事，说理说不清。但是我要在此断言，一个成年人，为人父母，居然殴打一个无法反抗的孩子，任何理性的人都不会认为这是一种正确的教育方式。<br><br><br>就像丈夫会殴打妻子不是出于爱一样，家长殴打孩子绝对不是出于爱，而是出于支配欲，出于对自己无能的羞耻感，以及施虐的快感。父母是孩子安全感的第一来源，而和你生活在同一屋檐下的是一个随时会扇你耳光并对你恶言相向的父亲对于孩子是多么痛苦。更为让人绝望的是，在这种情境下孩子是绝对的弱势者，因为他们不仅不拥有反抗的能力，设置连反抗和厌恶的心理必须小心翼翼地隐藏起来，因为你面对的是一个支配者，他对你的人生和未来拥有毋庸置疑的决定权，他掌管你的生活，你的情感，你的思想。<br><br>你的生活越来越闭塞，不断质疑和否定自己，对人际关系充满不信任感，你想要求助，但是世界上没有哪一种法律能够把一个孩子和他的父母分开，你们被血缘绑在一起。你的年纪越来越大，但是在父母面前，你永远是那个咬着自己拳头强忍着抽噎的孩子。你内心的一部分永远都有一个小小的黑屋，门外响起粗重的敲门声，那个熟悉的声音又在用土话叫着你的名字。<br><br>我越是长大，越是发觉自己的五官轮廓越来越像自己的父亲，甚至会在无意识表现出当年他对我的那种凶狠残忍。这让我越发地厌恶自己，我尝试过自杀，自虐，酗酒，很长一段时间我认为生活没有任何希望，每个人都那么面目可憎，我由衷企盼世界末日，让这个世界为我陪葬。<br><br><br>童年被虐待过的孩子是敏感的，多疑的，又是多愁善感，充满同理心的。他们对弱势者会抱有更大的同情，虽然他们常常会坚持自己痛恨这个世界，但是面对不公正，面对他人的痛苦，他们常常会不由自处地伸出援手，甚至对自己能力不足充满自责。但是他们的生活又是无比痛苦的，孤独，敏感，自我毁灭的倾向，以及暴躁和抑郁，如同行走在刀尖上，这是童年伤痕造成的影响，是一种情结（complex）最可怕的是，这是无法挽回的，伤痕已经造成，可能要花一辈子才能逐渐愈合。<br><br>我尊敬你，敬佩你反抗以及改变命运的勇气，但是所谓断绝亲子关系只是一个形式，不足以改变你的命运。你最主要的任务是重塑自己的人格，摆脱父母给你带来的心理上的影响，搭建自己想要的人生。最重要的是不要重蹈父母覆辙，你可以是敏感的，可以是忧郁的，但是你不能成为一个以施虐为乐的暴君，总是保持理性，看管好自己内心的野兽。<br>好了，暂时我就写这么多，虽然文不对题但是句句发自肺腑，希望能对你有所帮助。<br>随时欢迎来消息。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420289-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23016314">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4444440"
+data-atoken="23073708"
+data-collapsed="0"
+data-created="1393865071"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="8.1249273078"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4444440"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">4</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="4">4</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="4">
+
+<span class="voters">
+<a data-tip="p$t$li-xuan-24-89" href="http://www.zhihu.com/people/li-xuan-24-89" class="zg-link" title="李轩">李轩</a>、<a data-tip="p$t$cao-yi-an" href="http://www.zhihu.com/people/cao-yi-an" class="zg-link" title="曹苡安">曹苡安</a>、<a data-tip="p$t$wang-da-ke-39-9" href="http://www.zhihu.com/people/wang-da-ke-39-9" class="zg-link" title="王大可">王大可</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>能理解。因为感同身受。<br>
+不过我目前是只与父亲断绝关系，母亲在我真正成长之后待我很好，很多亲戚可以理解我的做法，有不明就里的姑姑打电话过来义正言辞训斥我：“我不管发生了什么，他是你爸爸。”重复三次之后，挂电话。解释不了不解释了，徒增烦恼。<br>
+虽然没有登报声明，但是我已经彻底跟那个人和过去say goodbye 了，还在上学，（上学所有的费用都是老妈一人负责，他从未出过半分）。毕业之后便去南方，再也不会回去。<br>
+从心里放下，才是最重要的。<br>
+给那些跟我们一样，从小生活在一个没有安全感的家庭里的孩子们，勇敢点，流言蜚语由他去，信你的人自然会信。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4444440-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23073708">00:44</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3914602"
+data-atoken="21789407"
+data-collapsed="0"
+data-created="1390192432"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="5.1251786743"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3914602"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">4</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="4">4</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$mi-ren-de-ren-sheng-ying-jia"
+class="zm-item-link-avatar"
+href="/people/mi-ren-de-ren-sheng-ying-jia">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"
+class="zm-list-avatar"
+data-source="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$mi-ren-de-ren-sheng-ying-jia" href="/people/mi-ren-de-ren-sheng-ying-jia">迷人的人生赢家</a>，<strong title="我是律师，但不普法。只发表观点，不辩论。" class="zu-question-my-bio">我是律师，但不普法。只发表观点，不辩论。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="4">
+
+<span class="voters">
+<a data-tip="p$t$li-xuan-24-89" href="http://www.zhihu.com/people/li-xuan-24-89" class="zg-link" title="李轩">李轩</a>、<a data-tip="p$t$shisu" href="http://www.zhihu.com/people/shisu" class="zg-link" title="石苏">石苏</a>、<a data-tip="p$t$xie-dong-hong" href="http://www.zhihu.com/people/xie-dong-hong" class="zg-link" title="谢东红">谢东红</a>
+</span>
+
+
+<a href="javascript:;" name="more" class="zg-link-gray more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">1、题主今年26岁，为家庭纠纷写这么多，是真爱啊。<br>2、断绝亲子关系，法律上不可能。但你可以远走他乡，与他们断绝来往即可。<br>3、可以。你按时汇钱即可。<br>4、可以，直接汇钱即可。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3914602-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/21789407">2014-01-20</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4286456"
+data-atoken="22698622"
+data-collapsed="0"
+data-created="1392930073"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="4.1249903295"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4286456"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2">2</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="2">
+
+<span class="voters">
+<a data-tip="p$t$gao-gao-72" href="http://www.zhihu.com/people/gao-gao-72" class="zg-link" title="高高">高高</a>、<a data-tip="p$t$shisu" href="http://www.zhihu.com/people/shisu" class="zg-link" title="石苏">石苏</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">弟弟最好也别联系了。<br>亲戚也别理了。<br>建议跟父母说清楚为什么你做出这个决定。<br>不想感觉欠亲戚什么的话，有钱就还钱，没钱的话只好帮忙办事，事也没得办就算了欠着吧，如果你不想因为这种事放弃过你想要的生活。<br>最后多嘴一句：盖兹比里面那句，当你想批评还是看不起别人的时候要知道不是所有人都有你这样优越的条件的，我觉得放在当你怨恨别人时来看，有助于你放下。人活在这个世界上总会受遗传、家庭环境、教育、经历的各种局限而没有成为更好的人。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4286456-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/22698622">2014-02-21</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4446381"
+data-atoken="23078460"
+data-collapsed="0"
+data-created="1393896460"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="4.1249251687"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4446381"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2">2</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="2">
+
+<span class="voters">
+<a data-tip="p$t$liu-chuan-66" href="http://www.zhihu.com/people/liu-chuan-66" class="zg-link" title="流川">流川</a>、<a data-tip="p$t$zyy2013" href="http://www.zhihu.com/people/zyy2013" class="zg-link" title="舟言言">舟言言</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">少年你还是不轻松啊。居然还愿意背负沉重的道德和经济负担。<br><br>要我说， 不给，什么都不给。 消息也不给，钱也不给。 顶多寄点虐待儿童的资料和法律条文回去让他们知道自己曾经做过了什么。<br><br>我当年是不知不觉慢慢的解脱的。脱胎换骨的觉得，妈的，活着原来这么美好。压根没时间也没有意愿去想他们活得怎么样了和我有毛关系啊少年。<br><br>不离不弃说得哪是狗吧。养儿防老说的不是人吧。<br><br>你做得对，大对全对完全对。 <br><br>这么多年的苦，酝酿的是从此生活的幸福。 你会发现自己口袋里面有几百块钱饿了能吃饭累了能打车是多么的幸福。想努力就努力，想犯懒就犯懒，一切为自己活着，做自己的主是一种什么样的幸福。<br><br>祝福你少年。我当时是25岁。哪种自由和幸福，想起来就颤抖。<br><br>另外，从心理上来说，你父母是有心理疾病的，但这不是你的原因。<br><br>你要先照顾好自己，才有能力照顾好别人不是吗？过十年，等你看清了社会的本质，看明白了人性，会原谅他们的。 只是现在，你需要先甩掉这些负能量，修复自己要紧。<br><br> 小忠告。 家庭教育最重要的社会教育这一部分，你得到的是零。所以，慎结婚。晚婚婚育吧。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4446381-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23078460">09:36</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4444901"
+data-atoken="23074871"
+data-collapsed="0"
+data-created="1393869401"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="2.1249270175"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4444901"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1">1</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$li-ran-81"
+class="zm-item-link-avatar"
+href="/people/li-ran-81">
+<img src="http://p2.zhimg.com/9e/e5/9ee56b027_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/9e/e5/9ee56b027_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$li-ran-81" href="/people/li-ran-81">李冉</a>，<strong title="不流氓，不文艺。" class="zu-question-my-bio">不流氓，不文艺。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$wang-da-ke-39-9" href="http://www.zhihu.com/people/wang-da-ke-39-9" class="zg-link" title="王大可">王大可</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>有一个很有趣的现象，人们只要生了孩子，立马瞬间变身成为许多人嘴里伟大的父母，仿佛所有  贪婪   自私  丑恶   暴力   甚至恶行都因为这个孩子的出世  而被忘却还顺带加了伟大两个字。<br>
+题主这种情况  豆瓣上的〔父母皆祸害〕小组应该很多，没事可以去寻一下共鸣，安慰一下自己。</p><p>至于断绝   题主可以先查一下是不是亲生。</p><p>如果不是那就好办了。</p><p>如果是 <br>
+法律法规子女有赡养父母的义务，可是这说的其实很含糊。<br>
+劳动能力如何判断，非要瘫痪才算丧失劳动能力？</p><p>所以可以远走，按照一般情况  至少十来年没问题的。以后自己稳定了，也都好处理了。<br>
+但是，题主有没有考虑过结婚方面的事情，如果一意孤行，到这步的时候压力会很大。<br>
+涉及独立买房   丈母娘关卡。<br>
+三思。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4444901-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23074871">01:56</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer zm-item-answer-owner"
+data-aid="4446248"
+data-atoken="23078140"
+data-collapsed="0"
+data-created="1393895694"
+data-deleted="0"
+data-helpful="1"
+data-isowner="1"
+data-score="2.1249252521"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4446248"></a>
+
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1">1</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zihaolucky"
+class="zm-item-link-avatar"
+href="/people/zihaolucky">
+<img src="http://p2.zhimg.com/f5/62/f562e3517_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/f5/62/f562e3517_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zihaolucky" href="/people/zihaolucky">郑梓豪</a>，<strong title="数学系学生" class="zu-question-my-bio">数学系学生</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<a data-tip="p$t$zyy2013" href="http://www.zhihu.com/people/zyy2013" class="zg-link" title="舟言言">舟言言</a>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">其实我也曾想过类似的问题。不过对象只是我爸。小时候被打得也不少，不过这不是我恨他的原因，谁小时候不被打呢？不过当我对女朋友说，“将来小孩子不听话就得打”，她说：“你敢？！你打他，我打你”。瞬间我觉得，嗯这个女孩不错。<br><br>之所以说这个，是希望你把目光放在未来。放在经营你的生活上，想想你以后会如何对待你的妻子，和你们的孩子。<br><br>记得自己沮丧的时候，对她说：“我不想结婚”。她说，“可是我要嫁”。回想起自己的出身和爸妈的时有不合，我哽咽着写下这些。说出这番话实在不够男人。<br><br>逃避不是男人解决问题的方法。我们要去行动，对吗？不论你与家长断绝，或是不断绝；是如何断绝，或是如何不断绝。我们都要做的，不选择，现状就不会改变。<br><br><b>不过，我是这样看的，请你参考</b>。<br>我本想直接了当地将我的情况与你对应，不过，看到你这句<br><blockquote>在满足 1 的条件下，我希望能遵守法律上赡养老人的义务，通过律师代理或者理财分红之类渠道，保证他们失去劳动力之后生活无忧<br></blockquote>我觉得这是个有血肉的人。所以我也不匿名地把自己的事情说出来。<br><br>我们回外婆家过年，年三十大家喝酒，我爸喝多了。饭后大家一起玩牌，那个家伙也去了。总之他把身上的钱都花光了，哈哈，不过这不是重点；酒劲上来以后，他一个人去厕所待了很久，我发现他时他在哭。他第一句话是，把钱赢回来。看到他没什么大碍，我便回去了。我是第一次看到我爸是这个样子，觉得很羞耻也很惭愧。<br><br>我确实把钱赢回来了，可是丝毫感受不到大家一起玩的快乐。可惜，当我爸回到客厅对大家说，家乡的一个亲戚说要挑战我们家郑梓豪，他说，你一定要把博士给我读回来，爸爸卖房子也要给你读。他十分用力地说出这些。我也忍不住歇斯底里地对他说一句我不能忘记的话，“我从来没有为你做过什么，现在不会，以后也不会”。<br><br>如果是平时，我会觉得这很可笑；当然，如果是平时，我也不可能知道我是他的骄傲。但我还是失态了。<br><br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br><br>我从高中起，就把克服自己人性中的缺点作为对自己的要求。因为我觉得有些东西，例如“他人的评价”这类事情，是不值得自己追求的（当然，我们仍然希望自己爱的人能认同自己）；又或者，面对失败和不顺时的心情，是不应该低落太久的。甚至，我认为父母是不需要纳入自己的人生考虑范围里的，因为我按照自己的意愿和方式做到的，一定也可以让他们满足，最后也能赡养父母的。<br><br>我们这代人，可能很多人都觉得父母那一辈愚昧，同时觉得自己高贵。其实，有些东西，既然自己不愚昧，为什么还要对别人的缺点耿耿于怀呢？我想过，如果我失败了，我应该对父母发脾气，说他们不应该给我压力；还是继续努力，继续做值得他们骄傲的人呢？<br><br>理性告诉我是后者。可是那天妈妈打电话给我，我却对她发脾气。我说，“你以为那么简单吗？”，“都说了不要跟那么多人说，你很开心吗？”很多时候，我们自己被一些不良情绪感染了，不是吗？我本身就有问题，有很大的问题。<br><br>回到问题本身吧！<br>你认为人的思维方式是不是决定了他此生的行为？请思考。也许是。<br>你认为，这是谁的过错？请思考。我们谁也不能回答，有人会说是社会、教育等等，你知道了又怎么样？当你为人父母，当你与孩子关系不恰，当你做出了违背了予妻子誓言的时候，你又怎么看自己的高贵？<br><br>原谅别人，也是对自己的解脱。你需要从这些过去中解脱出来，而你选择的方式，或许还能更好：<br><ul><li>赡养父母，心存感恩。</li><li>广东人有句话：鸡同鸭讲。说不来就不要说，但你可以写啊。你回家过年，不就那几天，忍一忍就过去了。你长那么大了，也有工作了，已经成为独立的个体，可以走的。</li><li>以平常心对待当年的恩情。如果你觉得帮助过你的人，自己并不讨厌，那就顺着感觉做事，平时打打电话，过年过节带些心意；如果觉得他们俗不可恶，那就不要沆瀣一气，忍一忍就过去了。</li></ul><br><b>最最关键的，是自己这一关。对过去的痛苦记忆，不是不可以回忆，而是要勇敢地回忆和面对；如果你觉得这是封建的残余，就把它拿到阳光下暴晒。同时，让自己成为一颗太阳，照耀自己的生命。我就是这样做的。</b>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4446248-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23078140">09:15</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="comment_opt" data-copyable="true"><i class="zg-icon zg-icon-settings"></i>设置</a>
+
+
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="3914994"
+data-atoken="21790422"
+data-collapsed="0"
+data-created="1390194828"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-1.8748214931"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3914994"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$hu-ya-nan-11"
+class="zm-item-link-avatar"
+href="/people/hu-ya-nan-11">
+<img src="http://p3.zhimg.com/54/c8/54c878c42_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/54/c8/54c878c42_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$hu-ya-nan-11" href="/people/hu-ya-nan-11">胡亚南</a>，<strong title="苦逼小律师一枚~~" class="zu-question-my-bio">苦逼小律师一枚~~</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">首先真是同情楼主的遭遇。<br>其次，断绝亲子关系是不可能的，法律上不支持。而且婚姻法，继承法，老年人权益保障法都规定了子女有赡养老人的义务。赡养费是必须给的，至于你回不回去看他们，目前没有法律能强制你去看。<br>最后，把一切都交给时间吧，也许你跟父母几年或者甚至十年不见面，你慢慢就会想通很多事情，就会原谅他们了。试着慢慢宽恕他们，一年不行十年。<br>祝你幸福。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3914994-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/21790422">2014-01-20</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420613"
+data-atoken="23017126"
+data-collapsed="0"
+data-created="1393736926"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420613"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$chu-lan-ting"
+class="zm-item-link-avatar"
+href="/people/chu-lan-ting">
+<img src="http://p2.zhimg.com/8b/d8/8bd8ef786_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/8b/d8/8bd8ef786_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$chu-lan-ting" href="/people/chu-lan-ting">楚兰亭</a>，<strong title="法律系知识产权在读" class="zu-question-my-bio">法律系知识产权在读</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">逃离他们，用跑的。<br>法律上不可以，但实际上可以。换一个父母亲戚找不到到地方，开始新生活。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420613-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23017126">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420740"
+data-atoken="23017435"
+data-collapsed="0"
+data-created="1393737596"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.1249358619"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420740"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-zi-yin-64"
+class="zm-item-link-avatar"
+href="/people/zhang-zi-yin-64">
+<img src="http://p1.zhimg.com/83/8d/838d1f701_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/83/8d/838d1f701_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-zi-yin-64" href="/people/zhang-zi-yin-64">张紫音</a>，<strong title="绘画 / 80年代音乐" class="zu-question-my-bio">绘画 / 80年代音乐</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">题主我跟你有类似的遭遇，深表理解。<br>你的父母确实在作孽，他们是残忍自私的，不可饶恕。你的选择是对的！<br><br>建议你不要透露你的住址，如果已经被知道就换住处。换手机号。你只需要知道他们的银行卡号就可以给他们汇款。<br>建议也一并断绝与亲戚的关系，他们曾经对你好过未必不是看你父母面子。亲戚也没几个好东西。否则你父母很难不知道你的情况。<br><br>希望你有一个爱你的女友，给你温柔和快乐，帮助你从阴影里走出来。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420740-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23017435">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420799"
+data-atoken="23017597"
+data-collapsed="0"
+data-created="1393737919"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420799"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$sahwn-wang"
+class="zm-item-link-avatar"
+href="/people/sahwn-wang">
+<img src="http://p1.zhimg.com/f5/e7/f5e75465d_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/f5/e7/f5e75465d_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$sahwn-wang" href="/people/sahwn-wang">sahwn wang</a>，<strong title="之乎者也" class="zu-question-my-bio">之乎者也</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">推荐一个天涯老贴：<br><br><a href="http://bbs.tianya.cn/post-free-854388-1.shtml" class=" wrap external" target="_blank" rel="nofollow">谎言中的NO1：没有父母不爱自己的孩子<i class="icon-external"></i></a>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420799-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23017597">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420968"
+data-atoken="23017996"
+data-collapsed="0"
+data-created="1393738823"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420968"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">题主不如多读些心理学书，并不是别的什么，只是能让你了解些人性生而来的恶劣，自私，至少你就能消化一些自己的怒气，让自己心里好过一些。我不知道你该怎么解除父母关系，不如你就不跟他们联系，也不回家。给他们按时打一些在你承受能力之下的钱。如你所说，毕竟他们打你揍你的同时，还在养你，做了他们物质上该做的。而你也只做你物质上该做的，去一个距离他们远远的地方，直到他们对你的影响慢慢的不再那么深刻。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420968-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23017996">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4426772"
+data-atoken="23032253"
+data-collapsed="0"
+data-created="1393769801"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4426772"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhe-xian-nu-80"
+class="zm-item-link-avatar"
+href="/people/zhe-xian-nu-80">
+<img src="http://p2.zhimg.com/f6/f7/f6f723ba3_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/f6/f7/f6f723ba3_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhe-xian-nu-80" href="/people/zhe-xian-nu-80">谪仙女</a>，<strong title="miss li" class="zu-question-my-bio">miss li</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>要让自己强大起来 每一步都要让自己认真踏实。只有自己强大才可以摆脱这些。三十岁之后的人生是我们自己的，所以忘掉过去重新活过。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4426772-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23032253">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4427384"
+data-atoken="23033670"
+data-collapsed="0"
+data-created="1393772004"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4427384"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">看台湾电视剧好像可以写切结书，内地就不知道了，去专业一点的律师网站或者其他论坛问问看吧<br>如果不行的话，可以远离他们，等到他们老得差不多了，自然有人通知你赡养他们<br>我和父母的关系也不好，如果你问到了可以告诉我一下<br>我不想和他们说话，如果要我爱他们，我宁可和他们同归于尽。<br>不过我和我姐的关系还不错，我还有个侄子，我想尽可能地对他好，等我姐以后生了也对她的孩子好，所以我要努力赚钱，不过我还是不想闹得太僵，可能永远也用不到切结的方法，匿了
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4427384-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23033670">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4444325"
+data-atoken="23073416"
+data-collapsed="0"
+data-created="1393864349"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4444325"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$gao-si-chang"
+class="zm-item-link-avatar"
+href="/people/gao-si-chang">
+<img src="http://p3.zhimg.com/9c/5b/9c5bfb8b7_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/9c/5b/9c5bfb8b7_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$gao-si-chang" href="/people/gao-si-chang">高思畅</a>，<strong title="什么都想学" class="zu-question-my-bio">什么都想学</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">读完你的故事，我觉得你和你的父母也许就没有亲子关系，你是不是被包养的？所以他们觉得养活了你就是对你天大的恩赐。所以也就不需要断绝了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4444325-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23073416">00:32</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4444395"
+data-atoken="23073592"
+data-collapsed="0"
+data-created="1393864798"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4444395"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ji-ran-ran-31"
+class="zm-item-link-avatar"
+href="/people/ji-ran-ran-31">
+<img src="http://p3.zhimg.com/c6/48/c64839d62_s.jpg"
+class="zm-list-avatar"
+data-source="http://p3.zhimg.com/c6/48/c64839d62_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$ji-ran-ran-31" href="/people/ji-ran-ran-31">季冉冉</a>，<strong title="你有错字0.0" class="zu-question-my-bio">你有错字0.0</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>想起了anti-parents 父母皆祸害<br>
+建议你别联系那两个表弟，只要与过去的一切割裂就好了。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4444395-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23073592">00:39</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4445719"
+data-atoken="23076887"
+data-collapsed="0"
+data-created="1393892311"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4445719"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>移民吧。找一个好的爱人。彻底与过去做个了断！</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4445719-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23076887">08:18</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4446208"
+data-atoken="23078044"
+data-collapsed="0"
+data-created="1393895497"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4446208"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我感到，你的痛苦在于你对他们还有一丝感情，所以还想到赡养他们，还想着有一天可以面对他们。<br><br>有些人，确实不配“父母”两字，他们自己的心智和精神状态都是残缺的。他们养小孩，对你物质上的付出不过是一种包成本的投资，谈不上“恩情”。很多父母不过是用“孝”来道德绑架孩子。<br><br>现在也无需通过法律程序断绝亲子关系，像楼上几位的建议，换名字，换手机号，切断可以所有令他们找到你的亲戚朋友和熟人的联系方式。好好生活。过几年再考虑赡养的事也不迟，直接按照他们对你的物质付出还给他们就是了。能够直接正视这样的家庭暴力和精神虐待，是非常困难的。建议可以看一些佛经和圣经，里面有些东西或者可以令你暂时得到平复和解脱。到那个时候，如果还觉得必要，你或者再找到他们，无需把他们视为“父母”，理解他们可能从小也是生活在这样的环境，缺乏爱当然也无法给予孩子爱，把他们视为需要帮助和怜悯的长辈就足够了。如果做不到，别回去了。众生有苦有残缺，明白这一点可能就不会再被他们所伤害。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4446208-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23078044">09:11</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4446221"
+data-atoken="23078073"
+data-collapsed="0"
+data-created="1393895564"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4446221"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xi-chen-56"
+class="zm-item-link-avatar"
+href="/people/xi-chen-56">
+<img src="http://p1.zhimg.com/72/8a/728a13420_s.jpg"
+class="zm-list-avatar"
+data-source="http://p1.zhimg.com/72/8a/728a13420_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xi-chen-56" href="/people/xi-chen-56">熙尘</a>，<strong title="金银币章／黄金分析师／传媒／猫奴" class="zu-question-my-bio">金银币章／黄金分析师／传媒／猫奴</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">不要搭理亲戚，他们不是你，不知道你的感触和伤害，他们只是不自觉的站在现在看起来是弱者的你父母那边而已。<br><br>只有自己能救自己，不要觉得愧疚，有病的人多了，为人父为人母又怎样？该治治。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4446221-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23078073">09:12</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4446669"
+data-atoken="23079138"
+data-collapsed="0"
+data-created="1393897709"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="0.0"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4446669"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang8118"
+class="zm-item-link-avatar"
+href="/people/wang8118">
+<img src="http://p2.zhimg.com/dc/61/dc6123387_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/dc/61/dc6123387_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$wang8118" href="/people/wang8118">梅小西</a>，<strong title="JAVA开发，一个不想当程序猿的攻城师" class="zu-question-my-bio">JAVA开发，一个不想当程序猿的攻城师</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">其实不用断绝关系，只要断绝联系，远走他乡，让他们找不到你，当然了，因为你必须赡养，所以你只需要每个月寄点钱就行了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4446669-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23079138">09:48</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4422089"
+data-atoken="23020788"
+data-collapsed="0"
+data-created="1393745485"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-2.8750646679"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4422089"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">建议移民，在中国我永远缺乏安全感和归宿感
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4422089-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23020788">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer "
+data-aid="4420709"
+data-atoken="23017362"
+data-collapsed="0"
+data-created="1393737415"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-score="-2.875064126"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4420709"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">0</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="0">0</a>
+</div>
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$fang-da-xiang-35"
+class="zm-item-link-avatar"
+href="/people/fang-da-xiang-35">
+<img src="http://p2.zhimg.com/ca/57/ca57e5525_s.jpg"
+class="zm-list-avatar"
+data-source="http://p2.zhimg.com/ca/57/ca57e5525_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$fang-da-xiang-35" href="/people/fang-da-xiang-35">方大祥</a>，<strong title="失去的可以再回来" class="zu-question-my-bio">失去的可以再回来</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1205288" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>放下，随着岁月的流长，也许等不到亲子断绝，一切都已释然。</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4420709-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+
+<span class="answer-date-link-wrap"><a class="answer-date-link meta-item" target="_blank" href="/question/22561592/answer/23017362">2014-03-02</a></span>
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="copyright zu-autohide"></span>
+
+</div>
+</div>
+
+
+</div>
+
+<div id="zh-question-collapsed-link" class="zu-question-collap-title" style="display:none" >
+<a href="javascript:;" name="expand" class="zg-link-gray" id="zh-question-collapsed-switcher">
+<span id="zh-question-collapsed-num">0</span> 个回答被折叠
+</a>
+（<a target="_blank" href="http://www.zhihu.com/question/20120168" class="zg-link-gray">为什么？</a>）
+</div>
+<div id="zh-question-collapsed-wrap" class="zh-question-answer-wrapper" style="display:none"></div>
+<a name="draft"></a>
+<div id="zh-question-answer-form-wrap" class="zh-question-answer-form-wrap" data-isabout="0">
+<div class="zm-editable-tip"></div>
+<div class="zm-editable-content"></div>
+</div>
+
+<!-- end of content -->
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-unfollow zg-btn-white" data-id="1205288">取消关注</button>
+
+<div class="zg-btn-white" id="zh-question-operation-menu"
+>
+<i class="zg-icon-dropdown-menu zg-icon"></i><b class="hide-text">设置</b>
+</div>
+
+<div class="zh-question-followers-sidebar">
+<div class="zg-gray-normal">
+
+<a href="/question/22561592/followers"><strong>70</strong></a>
+人关注该问题
+
+</div>
+
+<div class="list zu-small-avatar-list zg-clear">
+
+<a title="Tyraan T"
+data-tip="p$t$Tyraan"
+class="zm-item-link-avatar"
+href="/people/Tyraan">
+<img src="http://p1.zhimg.com/bf/3a/bf3a9e38a_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="Jerry Tsen"
+data-tip="p$t$jerry-cen"
+class="zm-item-link-avatar"
+href="/people/jerry-cen">
+<img src="http://p3.zhimg.com/d7/c3/d7c3fa6e5_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="罗益"
+data-tip="p$t$luo-yi-60"
+class="zm-item-link-avatar"
+href="/people/luo-yi-60">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="丁二丁"
+data-tip="p$t$ding-er-ding"
+class="zm-item-link-avatar"
+href="/people/ding-er-ding">
+<img src="http://p1.zhimg.com/34/66/346612b4a_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="Selerare"
+data-tip="p$t$Selerare"
+class="zm-item-link-avatar"
+href="/people/Selerare">
+<img src="http://p4.zhimg.com/c7/e8/c7e88c4b6_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="文婉"
+data-tip="p$t$wen-wan-36"
+class="zm-item-link-avatar"
+href="/people/wen-wan-36">
+<img src="http://p4.zhimg.com/f9/80/f9808acc5_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="姬新洲"
+data-tip="p$t$ji-xin-zhou"
+class="zm-item-link-avatar"
+href="/people/ji-xin-zhou">
+<img src="http://p4.zhimg.com/df/b9/dfb907264_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="朱子豪"
+data-tip="p$t$zhu-zi-hao-87"
+class="zm-item-link-avatar"
+href="/people/zhu-zi-hao-87">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="房殿焱"
+data-tip="p$t$fang-dian-yan"
+class="zm-item-link-avatar"
+href="/people/fang-dian-yan">
+<img src="http://p2.zhimg.com/de/3b/de3b655c1_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="Apple pear"
+data-tip="p$t$apple-pear-39"
+class="zm-item-link-avatar"
+href="/people/apple-pear-39">
+<img src="http://p2.zhimg.com/df/9b/df9ba2e87_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="cookieu"
+data-tip="p$t$cookieu"
+class="zm-item-link-avatar"
+href="/people/cookieu">
+<img src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<span class="zm-item-link-avatar">
+<img title="匿名用户" class="zm-item-img-avatar" src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"/>
+</span>
+
+<a title="唐舒儿"
+data-tip="p$t$tang-shu-er"
+class="zm-item-link-avatar"
+href="/people/tang-shu-er">
+<img src="http://p4.zhimg.com/28/06/2806ca8ce_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="郑梓豪"
+data-tip="p$t$zihaolucky"
+class="zm-item-link-avatar"
+href="/people/zihaolucky">
+<img src="http://p2.zhimg.com/f5/62/f562e3517_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="judith he"
+data-tip="p$t$judith-he"
+class="zm-item-link-avatar"
+href="/people/judith-he">
+<img src="http://p3.zhimg.com/96/d1/96d136954_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<span class="zm-item-link-avatar">
+<img title="匿名用户" class="zm-item-img-avatar" src="http://p4.zhimg.com/66/6b/666b0abfc_s.jpg"/>
+</span>
+
+<a title="风允铭"
+data-tip="p$t$feng-yun-ming"
+class="zm-item-link-avatar"
+href="/people/feng-yun-ming">
+<img src="http://p4.zhimg.com/09/29/092980bc3_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="王若的"
+data-tip="p$t$tirendushu"
+class="zm-item-link-avatar"
+href="/people/tirendushu">
+<img src="http://p1.zhimg.com/9b/dd/9bddd8807_s.jpg" class="zm-item-img-avatar">
+</a>
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="shameimaru-placeholder" data-class="QuestionShameimaruV2" data-params='{&quot;token&quot;:22561592}'></div>
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>相关问题</h3>
+<ul id="zh-question-related-questions" class="zh-question-related-questions">
+
+<li><a class="question_link" href="/question/21080673">没钱又想孝顺父母怎么办？</a> <span class="num">25 个回答</span></li>
+
+<li><a class="question_link" href="/question/20023617">恋情遭到父母反对怎么办？</a> <span class="num">51 个回答</span></li>
+
+<li><a class="question_link" href="/question/20729079">中国的父母为什么有催孩子结婚的传统？</a> <span class="num">50 个回答</span></li>
+
+<li><a class="question_link" href="/question/20316903">不爱自己的父母怎么办？</a> <span class="num">57 个回答</span></li>
+
+<li><a class="question_link" href="/question/20374373">如何面对不尊重子女的父母？</a> <span class="num">14 个回答</span></li>
+
+</ul>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>分享问题</h3>
+<div id="zh-question-webshare-container" data-title="分享问题" data-type="question" data-id="1205288" data-url-token="22561592" class="zh-question-webshare-links clearfix">
+<a href="#" name="sina"><i class="zg-icon zg-icon-webshare-weibo"></i>微博</a>
+
+<a href="#" name="letter"><i class="zg-icon zg-icon-webshare-letter"></i>站内私信</a>
+</div>
+<script type="text/x-template" id="zh-webshare-dialog-tmpl">
+<div id="zh-webshare-dialog" class="zh-webshare-dialog">
+<ul class="tab-navs">
+<li class="tab-nav active">
+<a href="javascript:;" id="tb-webshare-sina">微博分享</a>
+</li>
+
+<li class="tab-nav">
+<a href="javascript:;" id="tb-webshare-letter">站内信分享</a>
+</li>
+</ul>
+<div class="zm-tab-content weibo-panel" id="tb-webshare-sina-content">
+<div class="zg-section">
+<label>
+<input data-bindurl="/oauth/auth/sina?next=/oauth/callback" class="sina-checkbox" type="checkbox" />
+<span class="zg-ico-sina"></span> 新浪微博</label>
+<label>
+<input data-bindurl="/oauth/auth/qq?next=/oauth/callback" class="qq-checkbox" type="checkbox" />
+<span class="zg-ico-qq"></span> 腾讯微博</label>
+</div>
+<div class="zg-section">
+<div class="zg-form-text-input">
+<textarea style="width:100%" id="zh-webshare-sina-pm"></textarea>
+</div>
+</div>
+<div class="zm-command">
+<div class="zm-item-meta zg-left">
+<span id="zg-webshare-sina-counter">还可以输入 140字</span>
+</div>
+<a class="zm-command-cancel" name="cancel" href="javascript:;">取消</a>
+<a class="zg-btn-blue weibo-share-button" name="send_sina" href="javascript:;">发布</a>
+</div>
+</div>
+<div class="zm-tab-content" id="tb-webshare-mail-content" style="display: none;">
+<dl class="zm-form-table zm-form-table-medium">
+<dt class="zm-form-table-head zm-form-table-head-align-middle">
+<label for="user-name" class="zg-medium-gray">收件人：</label>
+</dt>
+<dd class="zm-form-table-field">
+<input class="zg-form-text-input" type="email" id="zh-webshare-mail-reciiver"/>
+</dd>
+<dt class="zm-form-table-head zm-form-table-head-align-middle">
+<label for="zh-webshare-mail-content" class="zg-medium-gray">内容：</label>
+</dt>
+<dd class="zm-form-table-field">
+<div class="zg-form-text-input">
+<textarea style="width:100%" id="zh-webshare-mail-content"></textarea>
+</div>
+</dd>
+</dl>
+<div class="zm-command">
+<a class="zm-command-cancel" name="cancel" href="javascript:;">取消</a>
+<a class="zg-r3px zg-btn-blue" name="send_mail" href="javascript:;">发送</a>
+</div>
+</div>
+<div id="tb-webshare-letter-content" class="zm-tab-content" style="display: none;"></div>
+</div>
+</script>
+
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>问题状态</h3>
+<div class="zg-gray-normal">
+最近活动于 <span class="time">10:02</span>
+<span class="zg-bull">&bull;</span>
+<a href="/question/22561592/log">查看问题日志</a>
+</div>
+<div class="zg-gray-normal">
+被浏览 <strong>943</strong> 次，相关话题关注者 <strong>349506</strong> 人
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/question/19581624" target='_blank'>知乎指南</a></li>
+<li><a href="javascript:;" id="js-feedback-button">建议反馈</a></li>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/read">知乎阅读</a></li>
+<li><a href="/jobs">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+</ul>
+<span class="copy">&copy; 2014 知乎</span>
+</div>
+</div>
+
+
+<script type="text/x-template" id="tmpl-feedback-form">
+<div id="zh-feedback-form">
+<select name="type" class="zg-editor-type zg-right">
+<option value="help">使用帮助 </option>
+<option value="bug">问题反馈</option>
+<option value="suggest">功能建议</option>
+</select>
+<div class="zg-report-title">
+<span class="zg-gray-darker">请填写你的反馈内容</span>
+<span class="zg-report-msg" style="display:none;">请选择反馈种类：</span>
+</div>
+<div class="zg-editor-simple-wrap zg-form-text-input zg-report-content">
+<textarea class="zg-editor-input" name="content"></textarea>
+</div>
+</div>
+</script>
+
+<script type="text/x-template" id="add-question-form-tmpl">
+<div class="zh-add-question-form">
+<div class="js-add-question-splash add-question-splash-page" >
+<p>
+知乎是一个真诚、友善、认真、互助的社区<br>
+我们希望每一个疑惑都有解答，好的问题更容易得到好答案 <a href="//www.zhihu.com/question/19555761">如何提一个好问题？</a>
+</p>
+<p>
+<b>提问应遵循真实、客观、简洁、明确、规范的原则</b><br>
+1、提问应尽可能简洁明了，避免「请问」「有谁知道」「谢谢！」等与问题本身无关的附加语。<br>
+2、应避免使用「为神马」「童鞋」「肿么办」等网络用语。<br>
+3、基于个人判断或传言的问题，在提问时应在补充说明里详细说明原由<br>
+4、避免太宽泛问题，如调查性的问题容易变成每个人都可以发表观点，但对其他人没有价值。<br>
+</p>
+<p>
+<b>知乎禁止这些提问</b><br>
+1、和已有问题完全重复的问题，<b>为避免重复，提问前可以先进行搜索</b><br>
+2、招聘 / 求职、交易 / 合作、寻人 / 征友、召集 / 赠送、求码类内容<br>
+3、投票类问题。例如：你支持方舟子还是韩寒？<br>
+4、作业或其他希望代为完成个人任务类的内容，以及针对个人具体病情的求医问药类问题<br>
+完整的提问建议可查看 <a href="//www.zhihu.com/question/19806261">知乎的提问规范有哪些？</a><br>
+</p>
+<div class="before-ask-form">
+<b>提问前请先搜索</b>
+<div style="position:relative;margin-top:18px;">
+<input type="text" class="zg-form-text-input" id="js-before-ask" placeholder="请输入你的问题">
+</div>
+</div>
+</div>
+<form class="js-add-question-form">
+<div class="zg-section-big clearfix">
+<div id="zm-modal-dialog-info-wrapper"></div>
+<div style="display: none;position: relative;" id="zm-modal-dialog-warnmsg-wrapper"><div class="zm-modal-dialog-warnmsg zm-modal-dialog-guide-warn-message zg-r5px"></div>
+<a name="close" title="关闭" href="javascript:;" class="zu-global-notify-close" style="display:none">x</a>
+<span class="zm-modal-dialog-guide-title-msg"></span>
+</div>
+<div class="zg-form-text-input add-question-title-form" style="position: relative;">
+<textarea class="zg-editor-input" title="在这里输入问题" id="zh-question-suggest-title-content"></textarea>
+</div>
+<span id="js-title-length-err-msg" class="title-length-err-msg zg-right"></span>
+<div id="zh-question-suggest-ac-wrap" class="question-suggest-ac-wrap"></div>
+</div>
+<div class="zg-section-big">
+<div style="display: none;position: relative;" class="zm-modal-dialog-warnmsg-wrapper">
+<div class="zm-modal-dialog-warnmsg zm-modal-dialog-guide-warn-message zg-r5px"></div>
+<a name="close" title="关闭" href="javascript:;" class="zu-global-notify-close" style="display:none">x</a>
+<span class="zm-modal-dialog-guide-title-msg"></span>
+</div>
+<div class="add-question-section-title">
+
+<span class="zg-right extra-editor-toolbar">
+<div class="js-toggle-editor-toolbar"><i class="z-ico-textedit"></i></div>
+<div class="js-editor-add-pic"><i class="tr-inline-icon tr-image"></i></div>
+<div class="js-editor-add-video"><i class="tr-inline-icon tr-video"></i></div>
+</span>
+
+问题说明（可选）：
+<span id="zh-question-form-detail-err"></span>
+</div>
+<div id="zh-question-suggest-detail-container">
+<div class="zm-editable-content" data-disabled="1"></div>
+</div>
+</div>
+<div class="zm-add-question-form-topic-wrap">
+<div class="add-question-section-title">
+
+<span class="zg-gray zg-right">话题越精准，越容易让领域专业人士看到你的问题</span>
+
+选择话题：
+<span id="zh-question-form-tag-err"></span>
+</div>
+<div style="" id="zh-question-suggest-topic-container" class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels"></div>
+<div id="zh-question-suggest-autocomplete-container"></div>
+</div>
+</div>
+<div class="zm-command">
+<label class="zm-question-form-hide-in-about-question-el zg-left">
+<input type="checkbox" value="1" class="zg-addq-isanon">匿名
+<span class="zm-question-form-split">&nbsp;</span>
+</label>
+<div class="zg-left zm-add-question-form-sns-wrap">
+<span>分享到</span>
+</div>
+<a href="javascript:;" name="cancel" class="zm-command-cancel">取消</a>
+<a href="javascript:;" name="addq" class="zg-r5px zu-question-form-add zg-btn-blue">发布</a>
+<a href="" name="jumpq" class="zg-r5px zg-btn-blue zu-question-form-jump" style="display:none;">查看问题</a>
+</div>
+</form>
+</div>
+</script>
+
+
+
+
+
+
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1353371744000,"now":1393898751000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"12135f10b08a64c54e8bfd537dd7bee7"}</script>
+
+<script type="text/json" class="json-inline" data-name="form_key">"101112391-1266834895069575986437642982242741109256350454258"</script>
+<script type="text/json" class="json-inline" data-name="current_user">["\u90d1\u6893\u8c6a","zihaolucky","http:\/\/p2.zhimg.com\/f5\/62\/f562e3517_s.jpg","12135f10b08a64c54e8bfd537dd7bee7","\u6570\u5b66\u7cfb\u5b66\u751f",0,0,1,"137552789@qq.com","http:\/\/mail.qq.com",1,false]</script>
+
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="current_question">[1205288,0,0,null,0,0,0,0,false,true,true,22561592,0,[],[],"normal"]</script>
+<script type="text/json" class="json-inline" data-name="current_question_owner">false</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+<script type="text/json" class="json-inline" data-name="my_answer">{"url_token":23078140,"id":4446248,"is_delete":false}</script>
+<script type="text/json" class="json-inline" data-name="need_first_answer_guide">false</script>
+
+<script type="text/json" class="json-inline" data-name="redirect_to">""</script>
+
+
+
+
+<script src="http://static.zhihu.com/static/ver/be1f4e09e99650d8ff09ac81943bc61f.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/28381ed210d3d389ffa6706b8fa82576.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/71cbcd4cf11202cea377bfe6921e425a.sign.js"></script>
+
+
+<script src="http://static.zhihu.com/static/ver/e54021028225e9362d80e4fb19796a11.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/c60318984335019604d96630da06b7f9.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="c80f5177de71457daa81a6c38f3f8f59">
+ZH.entrySQ();
+
+</script>
+
+<input type="hidden" name="_xsrf" value="90bdf5b52be34e21b9bd4c4db3bdfc8c"/>
+</body>
+</html>
