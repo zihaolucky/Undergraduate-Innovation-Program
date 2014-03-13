@@ -1,0 +1,75 @@
+在知乎上如何自动关注所有关注你的人？
+
+如果有像题主这样回关注的习惯，而又有很多人关注你，点起来累，有没有什么办法能自动回粉？
+
+技术问题，手痒，写了一个py的脚本。我这个脚本是受用Python Requests抓取知乎用户信息的启发写的，原作是@郑梓豪  同学的，我只是在他上面做了一点点改动，最大的贡献是郑同学。你配好登录email和密码，执行下就可以。如果不懂Python，找个懂python的朋友处理下。或者找郑同学执行。源代码文件：auto_follow_fans.py#!/usr/bin/env python
+#! -*- coding:utf-8 -*-
+
+import requests
+import json
+import re
+
+#要在这里配置你的登录email和密码
+myemail = 'xxx'
+mypasswd = 'xxx'
+myname = 'shenpp'
+
+s = requests.session()
+login_data = {'email':myemail, 'password':mypasswd}
+s.post('http://www.zhihu.com/login', login_data)
+
+header_info={
+    'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36',
+    'Host':'www.zhihu.com',
+    'Origin':'http://www.zhihu.com',
+    'Referer':'http://www.zhihu.com/people/jixin/followees',
+    'Connection':'keep-alive',
+    'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8',
+    'X-Requested-With':'XMLHttpRequest'
+}
+
+data_id_all=[]
+r = s.get('http://www.zhihu.com/people/%s/followers' % (myname))
+
+raw_data_id = re.findall('data-id(.*)', r.text)
+for x in raw_data_id:
+    data_id_all.append(x[2:34])
+
+raw_hash_id = re.findall('hash_id(.*)', r.text)
+hash_id = raw_hash_id[0][14:46]
+raw_xsrf = re.findall('xsrf(.*)', r.text)
+_xsrf = raw_xsrf[0][9:-3]
+offsets=20
+params = json.dumps({"hash_id":hash_id, "order_by":"created", "offset":offsets,})
+payload={"method":"next", "params":params, "_xsrf":_xsrf,}
+click_url = 'http://www.zhihu.com/node/ProfileFollowersListV2'
+
+while True:
+    r = s.post(click_url, data=payload, headers=header_info).text[13:-3]
+    if len(r) == 0:
+        break
+    raw_data_id = re.findall('data-id(.*)', r)
+    for x in raw_data_id:
+        data_id_all.append(x[2:34])
+
+header_info = {
+"Accept":"*/*",
+"Accept-Encoding":"gzip,deflate,sdch",
+"Accept-Language":"zh-CN,zh;q=0.8",
+"Connection":"keep-alive",
+"Content-Length":"127",
+"Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
+"DNT":"1",
+"Host":"www.zhihu.com",
+"Origin":"http://www.zhihu.com",
+"Referer":"http://www.zhihu.com/people/shisu/followers",
+"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36",
+"X-Requested-With":"XMLHttpRequest",
+}
+
+click_url = 'http://www.zhihu.com/node/MemberFollowBaseV2'
+for x in data_id_all:
+    params = json.dumps({"hash_id":x})
+    payload={"method":"follow_member", "params":params, "_xsrf":_xsrf,}
+    s.post(click_url, data=payload, headers=header_info)
+
