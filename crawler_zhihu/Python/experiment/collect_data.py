@@ -19,7 +19,7 @@ s = requests.session()
 
 def collect_data(i):
     print "collecting data.." + "i = " + str(i)
-    r = s.get('http://www.zhihu.com/question/22561592')
+    r = s.get('http://www.zhihu.com/question/22777914')
     global fp
     fp = codecs.open(str(i) + '.txt', 'w', 'utf-8')
     fp.write(r.text)

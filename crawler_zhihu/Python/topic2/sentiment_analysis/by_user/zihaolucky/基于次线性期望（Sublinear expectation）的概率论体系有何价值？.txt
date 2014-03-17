@@ -1,0 +1,9 @@
+基于次线性期望（Sublinear expectation）的概率论体系有何价值？
+
+Nonlinear expectation, including sublinear expectation as its special case,
+is a new and original framework of probability theory and has potential
+applications in some scientific fields, especially in finance risk measure and
+management.请问这种概率论体系有何价值，是否向其陈述的那样符合金融应用的特征？
+
+先粗浅地回答一下..我没有地看原文,甚至没有认真地看lz的问题说明。要思考好这个问题，可能需要回答下面的问题：（有些问题我没法想清楚）1.为何说传统的数学期望评价方式为线性的?线性期望是怎么样的？这里我没有想清楚，为什么说传统的期望计算是线性的?（望有经验的同学补充）2.这是否为一个好的对客观现象正常描述的方法.？由wikipedia上看：In probability theory, a nonlinear expectation is a nonlinear generalization of the expectation. Nonlinear expectations are useful in utility theory as they more closely match human behavior than traditional expectations.重点关注 they more closely match human behavior than traditional expectations 就这一点，我想应该可以很直观地感觉得到。比如损失1w元、10w元、100w的感受是线性的吗？显然不是。也就是说如果可以很好地描述人类分别在这些点上的感受，也许就能更好地理解risk，因为只有人类才那么关心risk下面的部分是我纯粹瞎想的（虽说我是数学系的..但面对未知,心里还是没底,尤其是我没看相关资料的时候），也是想接着问的：2.1 如果我们以线性思维计算上述数学期望：  那么 expectation = 111/3 = 37 w2.2 以非线性思维，我们会怎么算呢?我觉得问题在于， 不是很好，那么..非线性计算下..是怎么样的？做一个对比会好很多。具体可以看这篇文章 http://sisla06.samsi.info/fmse/pm/ShigePeng.pdf 我一下子没能看懂
+

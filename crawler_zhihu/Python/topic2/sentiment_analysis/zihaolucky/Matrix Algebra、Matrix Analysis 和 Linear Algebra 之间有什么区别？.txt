@@ -1,6 +1,0 @@
-Matrix Algebra、Matrix Analysis 和 Linear Algebra 之间有什么区别？
-
-好像覆盖的topics有很多是重叠的，想请教数学专业和统计学方面的人。
-
-老师说矩阵分析是高级数值分析的基础。太多的我就不知道了，最近也在考虑下学期选课的事情
-

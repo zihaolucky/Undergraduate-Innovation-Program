@@ -1,0 +1,6 @@
+美国呼吸道疾病患者占人口比率?
+
+我在卫生比较差的郊区长大，一块儿玩的小伙伴，有几个和我一样有鼻炎。现在18岁了，鼻炎症状也随着身体的强壮没有什么大碍了。最近几天感冒，难受极了，在知乎上看到，随口吐出的痰在干了之后会在空中漂浮大量病毒，并存活6-8个月。我就想，在我们这个依旧随口吐痰的城市患有呼吸疾病人口的比率，和美国等发达国家或者中国环境好的城市的差别有多大？（我在石家庄，还伴随随时爆表的pm2.5）
+
+请参见世界卫生组织关于世界疾病流行性的报告，Mortality and Burden of Disease Estimates for WHO Member States in 2002.Excel文档链接：http://www.who.int/entity/healthinfo/statistics/bodgbddeathdalyestimates.xls以upper respiratory infections的DALY比率染色的世界地图：图例：其中美国的数据在“Age-std DALY rates”页，第GI列，第53行。美国的upper respiratory infections比率（age-standardized disability-adjusted life year, age-std DALY）是4人/100,000人。其中中国的数据在“Age-std DALY rates”页，第AQ列，第53行。中国的upper respiratory infections比率（age-standardized disability-adjusted life year, age-std DALY）是43人/100,000人。因此你可以说在中国患上呼吸道感染的概率大约是美国的11倍左右。
+

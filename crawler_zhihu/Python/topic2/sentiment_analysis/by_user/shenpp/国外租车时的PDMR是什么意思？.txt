@@ -1,0 +1,6 @@
+国外租车时的PDMR是什么意思？
+
+其他的还有FVMR, PDMR, XFAR XDAR等等
+
+PDMR这个代码的意思是：P=premium；豪华车D=4/5door；指sedan (saloon)或hatchback，4门或5门的车M=manual transmission；手动变速箱R=unspecified fuel, A/C；汽油车，有车内空调完整代码列表：List of SIPP codes
+
