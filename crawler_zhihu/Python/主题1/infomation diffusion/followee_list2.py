@@ -11,9 +11,9 @@ import threading
 
 
 
-#famous_user_list = ['shisu','wang-wei-63','allenzhang','kentzhu','yangbo','baiya','junyu','wang-xiao-chuan','wangxing','gongjun','zhouyuan','hi-id','shek','commando','chen-hao-84','jin-chen-yu','jixin','linan','raymond-wang']
+#user_list = ['shisu','wang-wei-63','allenzhang','kentzhu','yangbo','baiya','junyu','wang-xiao-chuan','wangxing','gongjun','zhouyuan','hi-id','shek','commando','chen-hao-84','jin-chen-yu','jixin','linan','raymond-wang']
 
-
+user_list = ['zihaolucky']
 
 
 login_data = {'email': '137552789@qq.com', 'password': 'God2241226','rememberme':'y',}

@@ -31,21 +31,21 @@ def login(login_data):
         print "Try latter!\n"
         
         
-        
-def save2db(db_object, table_name, followee_info):
-    try:
-        followee_name = followee_info[0].replace('-','_')
-        db_object.execute("INSERT INTO "+ str(followee_name) + " VALUES (?,?,?,?,?)", followee_info)
-        cx.commit()
-    except:
-        print "User Existed.\n"
-        
-
-def buildTable(db_object, table_name):
-    print "creating table "+str(table_name)+"\n"
-    table_name = table_name.replace('-','_')
-    db_object.execute("CREATE TABLE " + table_name + " (user_id text PRIMARY KEY,followers INTEGER, asks INTEGER, answers INTEGER, goods INTEGER)")
-    
+#         
+# def save2db(db_object, table_name, followee_info):
+#     try:
+#         followee_name = followee_info[0].replace('-','_')
+#         db_object.execute("INSERT INTO "+ str(followee_name) + " VALUES (?,?,?,?,?)", followee_info)
+#         cx.commit()
+#     except:
+#         print "User Existed.\n"
+#         
+# 
+# def buildTable(db_object, table_name):
+#     print "creating table "+str(table_name)+"\n"
+#     table_name = table_name.replace('-','_')
+#     db_object.execute("CREATE TABLE " + str(table_name) + " (user_id text PRIMARY KEY,followers INTEGER, asks INTEGER, answers INTEGER, goods INTEGER)")
+#     
 
 
     
@@ -83,48 +83,46 @@ def getAnswerer(question_id):
 
 
 
-def getVoter(question_id, answerer_id, data_aid, db_object):
+def getVoter(question_id, answerer_id, data_aid, fp):
     # voter list，通过data_aid得到
     request_url = 'http://www.zhihu.com/node/AnswerFullVoteInfoV2?params=%7B%22answer_id%22%3A%22' + str(data_aid) + '%22%7D'
     voter_list = s.get(request_url)
     voter_name_list = re.findall('title="(.*?)"',voter_list.text)
     voter_id_list = re.findall('/people/(.*)"',voter_list.text)
     
+    print str(answerer_id) + ' has received ' + str(len(voter_id_list)) + ' votes.\n'
     
-    # 在数据库中查询该用户是否已经存在. 否则进行抓取,并存入数据库
-        # 先得到数据库中的所有表
-    db_object.execute("SELECT * FROM sqlite_master WHERE type = 'table'")
-    table_list = db_object.fetchall()
     for i in range(len(voter_id_list)):
-        print u'正在查询用户 '+str(voter_id_list[i])+ u'的关注者列表\n'
-        if( str(voter_id_list[i].replace('_','-')) not in table_list ):
-            print str(voter_id_list[i]) + ' not in databse.\n'
-            buildTable(db_object, voter_id_list[i])
-            
-            url = 'http://www.zhihu.com/people/' + voter_id_list[i] + '/followees'
-            print url
-            r = s.get(url)
-            user_homepage = r.text
-            followee_list = getFollowee(voter_id_list[i], user_homepage, voter_id_list, question_id, answerer_id, db_object)
-            checkConnection(followee_list, answerer_id, voter_id_list[i], voter_id_list[i:])
-        else:
-            for voter_id in voter_id_list[i:]:
-                voter_id = voter_id.replace('-','_')
-                db_object.execute('SELECT user_id FROM ' + str(voter_id) + ' WHERE user_id = ' + str(voter_id))
-                a = db_object.fetchall()
-                # 如果存在用户，表明该voter是通过其followee进来的
-                if(len(a) != 0):
-                    fp.write(voter_id.strip() + ',' + voter_id_list[i].strip()) # source, target
-                else:
-                    fp.write(answerer_id.strip() + ',' + voter_id_list[i].strip())
-        print u'用户 ' + str(voter_id_list[i]) + ' 的followee信息已得\n sleep for 1 second..\n'
-        sleep(1)
-    return voter_id_list
- 
- 
+        print u'正在抓取用户 '+str(voter_id_list[i])+ u'的关注者列表\n'
+        url = 'http://www.zhihu.com/people/' + voter_id_list[i] + '/followees'
+        print url
+        try:
+            r = s.get(url, timeout=20)
+        except:
+            r = s.get(url, timeout=20)
+        user_homepage = r.text
+        try:
+            followee_list = getFollowee(voter_id_list[i], user_homepage, voter_id_list, question_id, answerer_id)
+        except:
+            continue
+        # check connection.
+        status = 0
+        for followee in followee_list:
+            if(followee in voter_id_list[i:]):
+                status = status+1
+                fp.write(followee+','+voter_id_list[i])
+                fp.write('\n')
+                print followee+','+voter_id_list[i]
+        if(status==0):
+            fp.write(answerer_id+','+voter_id_list[i])
+            fp.write('\n')
+            print answerer_id+','+voter_id_list[i]
+        status = 0 
+        print str(voter_id_list[i])+' done. sleep 1s.\n'
+        
         
 # 模拟点击，发出post请求，以获得用户的followees信息
-def getFollowee(voter_id, user_homepage, voter_id_list, question_id, answerer_id, db_object):
+def getFollowee(voter_id, user_homepage, voter_id_list, question_id, answerer_id):
     
     # 进行加载时的Request URL
     click_url = 'http://www.zhihu.com/node/ProfileFolloweesListV2'
@@ -163,13 +161,12 @@ def getFollowee(voter_id, user_homepage, voter_id_list, question_id, answerer_id
     
     
     
-        # 写入头20个用户信息至数据库, 需要指明表的名称
+        # 检查20个用户信息
     for i in range(len(followee_id)):
-        followee_info = [followee_id[i], answers[i], asks[i], followers[i], goods[i]]
-        followee_list.append(followee_info[0])
-        save2db(db_object, answerer_id, followee_info)
+        followee_list.append(followee_id[i])
+        
     
-        # 写入其余用户信息
+        # 检查其余用户信息
     for i in range(1,load_more_times+1,1):
         t_start = time.localtime()[5]
         offsets = i*20
@@ -179,11 +176,11 @@ def getFollowee(voter_id, user_homepage, voter_id_list, question_id, answerer_id
         
             # debug and improve robustness. Date: 2014-02-12
         try:
-            r = s.post(click_url,data=payload,headers=header_info,timeout=20)
+            r = s.post(click_url,data=payload,headers=header_info,timeout=10)
         except:
             # 响应时间过程过长则重试
             print u'等待时间过长, repost\n'
-            r = s.post(click_url,data=payload,headers=header_info,timeout=60)
+            r = s.post(click_url,data=payload,headers=header_info,timeout=30)
         
         
             # parse info.
@@ -198,46 +195,13 @@ def getFollowee(voter_id, user_homepage, voter_id_list, question_id, answerer_id
     
             # 写入
         for i in range(len(followee_id)):
-            followee_info = [followee_id[i], answers[i], asks[i], followers[i], goods[i]]
-            followee_list.append(followee_info[0])
-            save2db(db_object, answerer_id, followee_info[i])
+            followee_list.append(followee_id[i])
         
         t_elapsed = time.localtime()[5] - t_start
         print 'got:',offsets,'users.','elapsed: ',t_elapsed,'s.\n'
     
     return followee_list
     
-    """
-    # append完毕后检查followees中是否含有voter_list中的对象
-    fp = codecs.open(question_id + '.txt', 'a', 'utf-8')
-    match_followees = []
-    for target_voter in voter_id_list:
-        # print 'target voter: ' + target_voter + '\n'
-        if(target_voter in followees):
-            global fp
-            fp.write(target_voter.strip() + ',' + user.strip()) # source,target
-            fp.write('\n')
-            match_followees.append(target_voter.strip())
-            print target_voter.strip() + ',' + user.strip()
-            print '\n'
-    if(len(match_followees)==0):
-        print 'no match\n'
-        fp.write(answerer_id.strip() + ',' + user.strip()) # source,target
-        fp.write('\n')
-    fp.close()
-    """
-    
-    
-
-
-# 确认该voter是否为voter_id_list中的follower, 相当于确认信息来源
-def checkConnection(followee_list, answerer_id, voter_id, voter_id_list):
-    for i in range(len(voter_id_list)):
-        if(voter_id_list[i] in followee_list):
-            fp.write(voter_id.strip()+','+voter_id_list[i])
-        else:
-            fp.write(answerer_id.strip() + ',' + voter_id_list[i].strip())
-    fp.close()
 
 def main():
     login_data = {'email': '137552789@qq.com', 
@@ -246,12 +210,9 @@ def main():
                 
     
 
-    # 数据库对象
-    db = sqlite3.connect("followee_list.db")
-    db_object = db.cursor()
     
     # 输入你需要抓取的问题id
-    question_list = ['22561592']
+    question_list = ['20241368']
     
     # login & varify crawler's running under permission.
     try:
@@ -264,15 +225,15 @@ def main():
     
     
     for question_id in question_list:
+        global fp
         fp = codecs.open('/Users/white/github/Undergraduate-Innovation-Program/crawler_zhihu/Python/主题1/infomation diffusion/'+str(question_id)+'.txt','a','utf-8')
         
         # 得到答主id
         (answerer_id, data_aid) = getAnswerer(question_id) 
         for i in range(len(answerer_id)):
-            # 得到赞同该答主的voter list. 只能对非匿名用户进行followees采样
-            if(answerer_id[0:9] != 'anonymous'):
-                print "正在抓取 " + answerer_id[i].strip() + " 的赞同者..\n"
-                getVoter(question_id, answerer_id[i], data_aid[i], db_object)
+            # 得到赞同该答主的voter list.
+            print "正在抓取 " + answerer_id[i].strip() + " 的赞同者..\n"
+            getVoter(question_id, answerer_id[i], data_aid[i], fp)
                 
     
     

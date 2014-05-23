@@ -20,10 +20,17 @@ s = requests.session()
 
 # auto-login.
 def login(login_data):
-    print "logging in...\n"
+    # try login.
+    print "try login ..\n"
     s.post('http://www.zhihu.com/login', login_data)
-    
-
+    # validate status.
+    validation_url = 'http://www.zhihu.com/people/zihaolucky'
+    r = s.get(validation_url)
+    if(r.url == validation_url):
+        print "succeed.\n"
+    else:
+        print "Something wrong. you may want to login in your browser first."
+        print "Try latter!\n"
 
 def getAnswerer(question_id):
     # get html of the question page first
@@ -86,8 +93,8 @@ def write_file(question_id, answerer_name, voter_name_list):
       
 
 def main():
-    question_list = ['22002224']
-    
+    #question_list = ['22719537']
+    question_list = ['23221420']
     
     
     # login & varify crawler's running under permission.

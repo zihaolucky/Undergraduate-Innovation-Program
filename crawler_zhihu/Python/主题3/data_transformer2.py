@@ -76,22 +76,24 @@ for i in range(200):
 
 
 followers = []
-for i in range(200):
+for i in range(50000):
     cu.execute("select COUNT(user_id) from user_info where followers="+str(i)+"")
     a = cu.fetchall()[0][0]
+    print i,'=',a
     followers.append(a)
 
 followers2 = []
-for i in range(200):
+for i in range(100000):
     cu2.execute("select COUNT(user_id) from user_info where followers="+str(i)+"")
     a = cu2.fetchall()[0][0]
     followers2.append(a)
 
 ---------------
 goods = []
-for i in range(200):
+for i in range(20000):
     cu.execute("select COUNT(user_id) from user_info where goods="+str(i)+"")
     a = cu.fetchall()[0][0]
+    print a
     goods.append(a)
 
 goods2 = []
@@ -113,7 +115,7 @@ for i in range(12000):
     answers.append(a)
     print a     
     
-t = range(200)
+t = range(len(followers))
 plt.loglog(t,asks,label="followee")
 plt.loglog(t,asks2,label="follower")
 plt.legend()
