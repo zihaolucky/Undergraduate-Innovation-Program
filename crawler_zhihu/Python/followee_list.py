@@ -19,8 +19,8 @@ user_list = ['zihaolucky']
 #user_list = ['commando','chen-hao-84','jin-chen-yu']
 
 
-#login_data = {'email': 'zihaolucky@gmail.com', 'password': 'shandian123','rememberme':'y',}
-login_data = {'email': '137552789@qq.com', 'password': 'God2241226','rememberme':'y',}
+#login_data = {'email': 'zihaolucky@gmail.com', 'password': 'yourpassword','rememberme':'y',}
+login_data = {'email': '137552789@qq.com', 'password': 'yourpass','rememberme':'y',}
 
 
 
